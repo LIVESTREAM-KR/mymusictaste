@@ -23,7 +23,7 @@ waitUntil = "networkidle"
 [events]
 title = "MyMusicTaste ─ Events"
 url = "https://www.mymusictaste.com/events/"
-entrySelector = "div.sc-1gve1aw-6.jRjbeR section"
+entrySelector = "div.sc-1gve1aw-4.dmxrqe div.sc-1gve1aw-5.coDfdi div.sc-1gve1aw-6.jRjbeR section.sc-1sxlxw0-0.sc-1y7b7pa-4.cnsQRo.bYhZXJ"
 titleSelector = "h3.sc-1sxlxw0-4.sc-1y7b7pa-9.kfJLAM.ijmVUi"
 linkSelector = "*"
 contentSelector = "div.sc-1sxlxw0-2.sc-1y7b7pa-6.sc-1y7b7pa-7.bGSncp.gXmNjR.ePhmBG"
