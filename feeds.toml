@@ -7,3 +7,13 @@ linkSelector = "*"
 contentSelector = "p.sc-1sxlxw0-5.ffZpFc"
 imageSelector = "div.sc-1b180qo-0.ikRoLt img"
 waitUntil = "networkidle"
+
+[news]
+title = "MyMusicTaste ─ News"
+url = "https://www.mymusictaste.com/news/"
+entrySelector = "div.rqcvb3-8.eluHen div.rqcvb3-7.iqTQnl a.rqcvb3-0.bqnFnw"
+titleSelector = "p.sc-1s0c55l-0.xoxJZ.rqcvb3-3.jcARht font font"
+linkSelector = "*"
+contentSelector = "p.sc-1s0c55l-0.QcWa.rqcvb3-4.bKeGDw font font"
+imageSelector = "div.rqcvb3-1.cJtcEg img"
+waitUntil = "networkidle"
