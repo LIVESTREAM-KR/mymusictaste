@@ -1,0 +1,9 @@
+[live]
+title = "MyMusicTaste ─ Live"
+url = "https://www.mymusictaste.com/live/"
+entrySelector = "section.aiup0d-5.dUvocB div.aiup0d-3.brCWqn a.jasviq-0.hwUOqz.aiup0d-2.hvxfNC"
+titleSelector = "h3.sc-1sxlxw0-4.kfJLAM"
+linkSelector = "*"
+contentSelector = "p.sc-1sxlxw0-5.ffZpFc"
+imageSelector = "div.sc-1b180qo-0.ikRoLt img"
+waitUntil = "networkidle"
