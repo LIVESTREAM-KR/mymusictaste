@@ -29,3 +29,13 @@ linkSelector = "*"
 contentSelector = "div.sc-1sxlxw0-2.sc-1y7b7pa-6.sc-1y7b7pa-7.bGSncp.gXmNjR.ePhmBG"
 imageSelector = "div.sc-1b180qo-0.ikRoLt img"
 waitUntil = "networkidle"
+
+[shop]
+title = "MyMusicTaste ─ Shop"
+url = "https://www.mymusictaste.com/projects/"
+entrySelector = "div.sy4999-4.iJbziK a.sc-1hifrd3-0.eGPdlv.sy4999-3.uBaSe"
+titleSelector = "h3.sc-1sxlxw0-4.kfJLAM"
+linkSelector = "*"
+contentSelector = "p.sc-1sxlxw0-5.ffZpFc"
+imageSelector = "div.sc-1b180qo-0.ikRoLt img"
+waitUntil = "networkidle"
