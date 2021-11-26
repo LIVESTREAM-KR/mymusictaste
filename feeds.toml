@@ -19,3 +19,13 @@ dateSelector = "p.sc-1s0c55l-0.xoxJZ.rqcvb3-5.jacBoP span"
 dateFormat = "yyyy-MM-dd'T'HH:mm:ss"
 imageSelector = "div.rqcvb3-1.cJtcEg img"
 waitUntil = "networkidle"
+
+[events]
+title = "MyMusicTaste ─ Events"
+url = "https://www.mymusictaste.com/events/"
+entrySelector = "div.sc-1gve1aw-6.jRjbeR section"
+titleSelector = "h3.sc-1sxlxw0-4.sc-1y7b7pa-9.kfJLAM.ijmVUi"
+linkSelector = "*"
+contentSelector = "div.sc-1sxlxw0-2.sc-1y7b7pa-6.sc-1y7b7pa-7.bGSncp.gXmNjR.ePhmBG"
+imageSelector = "div.sc-1b180qo-0.ikRoLt img"
+waitUntil = "networkidle"
