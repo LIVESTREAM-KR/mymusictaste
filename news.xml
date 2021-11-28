@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 17:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 05:38:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[K-Star’s Best Character] The Third Chance for Actress “Jeon So Min”]]></title>
+            <link>https://www.mymusictaste.com/news/k-stars-best-character-the-third-chance-for-actress-jeon-so-min,2999/</link>
+            <guid>https://www.mymusictaste.com/news/k-stars-best-character-the-third-chance-for-actress-jeon-so-min,2999/</guid>
+            <pubDate>Sun, 28 Nov 2021 05:38:30 GMT</pubDate>
+            <content:encoded><![CDATA[Edited by Seo Hayne Translated by Kim Hoyeun Jeon So Min, a regular cast member of Running Man, is loved for her whimsical charm. She now approaches us as a]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2021/11/20211125_indepth_-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Weekly TV Top 10] Romance Historical Dramas Take Over the Small Screen: ‘The Red Sleeve’ & ‘The King’s Affection’ Rank at Top 2]]></title>
             <link>https://www.mymusictaste.com/news/weekly-tv-top-10-romance-historical-dramas-take-over-the-small-screen-the-red-sleeve-the-kings-affection-rank-at-top-2,2998/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 26 Nov 2021 19:01:21 GMT</pubDate>
             <content:encoded><![CDATA[Netflix unveiled the behind-the-scenes video of its new hit series ‘Hellbound‘. Director Yeon Sang Ho and actress Kim Hyun Joo got together to introduce the behind-the-scenes story of Hellbound. The]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2021/11/still_02-600x400.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PICK] Best Traditional K-Romance Dramas to Binge Watch as Winter Approaches]]></title>
-            <link>https://www.mymusictaste.com/news/pick-best-traditional-k-romance-dramas-to-binge-watch-as-winter-approaches,2979/</link>
-            <guid>https://www.mymusictaste.com/news/pick-best-traditional-k-romance-dramas-to-binge-watch-as-winter-approaches,2979/</guid>
-            <pubDate>Fri, 26 Nov 2021 19:01:21 GMT</pubDate>
-            <content:encoded><![CDATA[Edited by Seo Hayne Translated by Kim Hoyeun For some time, rom-coms that have combined various genres have been dominating the industry. But as the breeze turns colder and colder]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2021/11/000-5-600x400.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
