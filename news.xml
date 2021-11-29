@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 17:45:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 05:39:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS Says They Hope to Win the Grammys Someday]]></title>
+            <link>https://www.mymusictaste.com/news/bts-says-they-hope-to-win-the-grammys-someday,3000/</link>
+            <guid>https://www.mymusictaste.com/news/bts-says-they-hope-to-win-the-grammys-someday,3000/</guid>
+            <pubDate>Mon, 29 Nov 2021 05:39:20 GMT</pubDate>
+            <content:encoded><![CDATA[On the 28th, BTS held a press conference to commemorate the “BTS PERMISSION TO DANCE ON STAGE – LA Concert” at SoFi Stadium, LA, USA. This concert is the act’s]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2021/11/00-1-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[K-Star’s Best Character] The Third Chance for Actress “Jeon So Min”]]></title>
             <link>https://www.mymusictaste.com/news/k-stars-best-character-the-third-chance-for-actress-jeon-so-min,2999/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 26 Nov 2021 19:01:21 GMT</pubDate>
             <content:encoded><![CDATA[SBS’s ‘Now, We Are Breaking Up‘ is gaining explosive reactions not only from Korea but also from abroad. Now, We Are Breaking Up is a breaking-up version of Love Actually.]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2021/11/optimize-600x400.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Netflix Opens the Gates of ‘Hellbound’ with Behind-the-Scenes Video]]></title>
-            <link>https://www.mymusictaste.com/news/netflix-opens-the-gates-of-hellbound-with-behind-the-scenes-video,2980/</link>
-            <guid>https://www.mymusictaste.com/news/netflix-opens-the-gates-of-hellbound-with-behind-the-scenes-video,2980/</guid>
-            <pubDate>Fri, 26 Nov 2021 19:01:21 GMT</pubDate>
-            <content:encoded><![CDATA[Netflix unveiled the behind-the-scenes video of its new hit series ‘Hellbound‘. Director Yeon Sang Ho and actress Kim Hyun Joo got together to introduce the behind-the-scenes story of Hellbound. The]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2021/11/still_02-600x400.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
