@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 05:39:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 17:46:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ATEEZ]]></title>
+            <link>https://www.mymusictaste.com/project/b0df2d9250c811ec989b0a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/b0df2d9250c811ec989b0a58a9feac02/</guid>
+            <pubDate>Mon, 29 Nov 2021 17:46:36 GMT</pubDate>
+            <content:encoded><![CDATA[ZERO : FEVER EPILOGUE]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/32c8c41250d211ecaf590a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Hwa Sa]]></title>
             <link>https://www.mymusictaste.com/project/2ef2915050b411ecb3210a58a9feac02/</link>
