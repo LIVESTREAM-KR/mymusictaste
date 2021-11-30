@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 17:46:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 05:39:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Curated Playlist] 5 Essential Emerging K-pop Artists in Korea]]></title>
+            <link>https://www.mymusictaste.com/news/curated-playlist-5-essential-emerging-k-pop-artists-in-korea,3009/</link>
+            <guid>https://www.mymusictaste.com/news/curated-playlist-5-essential-emerging-k-pop-artists-in-korea,3009/</guid>
+            <pubDate>Tue, 30 Nov 2021 05:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[Edited by Yoon Translated by Eungee Joh Nowadays, the K-pop market is completely oversaturated. Every day new idol groups are joining the competition to become the next big K-pop star.]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2021/11/d-down-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Romance Movie ‘Happy New Year’ Featuring Star-Studded Cast Drops Heart-Fluttering Trailer]]></title>
             <link>https://www.mymusictaste.com/news/new-romance-movie-happy-new-year-featuring-star-studded-cast-drops-heart-fluttering-trailer,3008/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 26 Nov 2021 19:01:21 GMT</pubDate>
             <content:encoded><![CDATA[On the 26th, Coupang Play held a press conference at which Kim Soo Hyun, Cha Seung Won, Kim Seong Gyoo and director Lee Myung Woo talked about their experience working]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2021/11/91e27455-23f0-4c36-b24c-d33788fded04-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Netflix’s New Show ‘Singles’ Inferno’ to Take Off Its Veil on December 18th]]></title>
-            <link>https://www.mymusictaste.com/news/netflixs-new-show-singles-inferno-to-take-off-its-veil-on-december-18th,2989/</link>
-            <guid>https://www.mymusictaste.com/news/netflixs-new-show-singles-inferno-to-take-off-its-veil-on-december-18th,2989/</guid>
-            <pubDate>Fri, 26 Nov 2021 19:01:21 GMT</pubDate>
-            <content:encoded><![CDATA[A dating show as hot as Too Hot to Handle, unbiased like Love Is Blind, and romantic like Terrace House is coming. The Korean version of a hot dating game]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2021/11/still_01-crop-600x400.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
