@@ -4,7 +4,7 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 05:40:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 17:47:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Mon, 29 Nov 2021 17:46:36 GMT</pubDate>
             <content:encoded><![CDATA[ZERO : FEVER EPILOGUE]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/32c8c41250d211ecaf590a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hwa Sa]]></title>
-            <link>https://www.mymusictaste.com/project/2ef2915050b411ecb3210a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/2ef2915050b411ecb3210a58a9feac02/</guid>
-            <pubDate>Mon, 29 Nov 2021 05:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[[Guilty Pleasure] Global Video Call]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/815e2f1450c111ec90b60a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[VERIVERY]]></title>
