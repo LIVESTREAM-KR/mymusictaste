@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 17:46:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 05:39:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Weekly TV Top 10] Junho & Lee Se Young’s ‘The Red Sleeve’ Achieves All-Kill in Popularity Rankings]]></title>
+            <link>https://www.mymusictaste.com/news/weekly-tv-top-10-junho-lee-se-youngs-the-red-sleeve-achieves-all-kill-in-popularity-rankings,3055/</link>
+            <guid>https://www.mymusictaste.com/news/weekly-tv-top-10-junho-lee-se-youngs-the-red-sleeve-achieves-all-kill-in-popularity-rankings,3055/</guid>
+            <pubDate>Sat, 04 Dec 2021 05:39:11 GMT</pubDate>
+            <content:encoded><![CDATA[Drama Ranking for the 4th Week of November MBC’s The Red Sleeve maintains its top spot for three consecutive weeks. The drama, in general, is receiving favorable reviews, and especially,]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/The-Red-Sleeve-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS Tops Nine Year-End Charts of Billboard]]></title>
             <link>https://www.mymusictaste.com/news/bts-tops-nine-year-end-charts-of-billboard,3054/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 Dec 2021 17:44:24 GMT</pubDate>
             <content:encoded><![CDATA[A teaser for Special Cargo, a crime movie starring Park So Dam, has been released. Special Cargo is a crime, action movie about Eun Ha (Park So Dam), a delivery]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/thumbnail-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Melancholia’ Episode 7 Recap: Lee Do Hyun Grows Up Into a Full-Fledged Adult]]></title>
-            <link>https://www.mymusictaste.com/news/melancholia-episode-7-recap-lee-do-hyun-grows-up-into-a-full-fledged-adult,3035/</link>
-            <guid>https://www.mymusictaste.com/news/melancholia-episode-7-recap-lee-do-hyun-grows-up-into-a-full-fledged-adult,3035/</guid>
-            <pubDate>Thu, 02 Dec 2021 17:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[Melancholia’s nationwide viewer ratings have doubled since last week. Episode seven, which aired on January 1st, recorded a rating of 2.7 percent. The seventh episode depicts the vastly different lives]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/FFg1QbYUYAQhgqy-horz-600x400.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
