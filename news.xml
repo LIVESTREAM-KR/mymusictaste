@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 17:45:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 05:40:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kim Seon Ho Wins Two Awards at the 2021 Asia Artist Awards]]></title>
+            <link>https://www.mymusictaste.com/news/kim-seon-ho-wins-two-awards-at-the-2021-asia-artist-awards,3057/</link>
+            <guid>https://www.mymusictaste.com/news/kim-seon-ho-wins-two-awards-at-the-2021-asia-artist-awards,3057/</guid>
+            <pubDate>Mon, 06 Dec 2021 05:39:47 GMT</pubDate>
+            <content:encoded><![CDATA[Kim Seon Ho’s agency SALT Entertainment thanked his fans for their support after winning two Asia Artist Awards. On the 5th, the agency uploaded a photo of Kim’s two trophies,]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/128088724_133745245210999_866266285470351282_n-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[K-Star’s Best Character] Kim Da Mi Is an Unstoppable Actress who Knew No Boundaries Coming to Success]]></title>
             <link>https://www.mymusictaste.com/news/k-stars-best-character-kim-da-mi-is-an-unstoppable-actress-who-knew-no-boundaries-coming-to-success,3056/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 Dec 2021 17:44:24 GMT</pubDate>
             <content:encoded><![CDATA[It’s official. BTS will not be attending the 2021 MAMA (Mnet Asian Music Awards). On the 2nd, an official from Mnet made a brief statement to confirm the cancelation of]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/20210928_071420-600x400.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jung Ryeo Won Returns to Small Screen with New Drama Series]]></title>
-            <link>https://www.mymusictaste.com/news/jung-ryeo-won-returns-to-small-screen-with-new-drama-series,3037/</link>
-            <guid>https://www.mymusictaste.com/news/jung-ryeo-won-returns-to-small-screen-with-new-drama-series,3037/</guid>
-            <pubDate>Thu, 02 Dec 2021 17:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[Jung Ryeo Won has finally decided on her next acting role after careful consideration. On the 2nd, an industry insider revealed that Jung Ryeo Won has decided to make her]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/UOksVEChlnbw636687100944257593-600x400.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
