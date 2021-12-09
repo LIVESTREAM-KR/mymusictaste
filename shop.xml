@@ -4,7 +4,7 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 05:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 17:48:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Tue, 30 Nov 2021 17:44:14 GMT</pubDate>
             <content:encoded><![CDATA[2022 WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] FANSIGN EVENT IN LA]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/ca624c4a540d11ecbbaf0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATEEZ]]></title>
-            <link>https://www.mymusictaste.com/project/b0df2d9250c811ec989b0a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/b0df2d9250c811ec989b0a58a9feac02/</guid>
-            <pubDate>Mon, 29 Nov 2021 17:46:36 GMT</pubDate>
-            <content:encoded><![CDATA[ZERO : FEVER EPILOGUE]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/32c8c41250d211ecaf590a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[VERIVERY]]></title>
