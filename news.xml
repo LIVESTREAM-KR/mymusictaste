@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 17:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 05:39:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[K-Drama Review] ‘The Red Sleeve’: Affectionate Love Story of King and Court Lady]]></title>
+            <link>https://www.mymusictaste.com/news/k-drama-review-the-red-sleeve-affectionate-love-story-of-king-and-court-lady,3150/</link>
+            <guid>https://www.mymusictaste.com/news/k-drama-review-the-red-sleeve-affectionate-love-story-of-king-and-court-lady,3150/</guid>
+            <pubDate>Thu, 16 Dec 2021 05:39:22 GMT</pubDate>
+            <content:encoded><![CDATA[Edited by Seo Hae Lan Translated by Kim Hoyeun Romance historical drama The Red Sleeve had surpassed the 10% ratings mark. It was indeed one of the most anticipated historical]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/248080093_3137190363170224_6319931012545138565_n-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘The King’s Affection’ Episode 20 Recap: Park Eun Bin and Rowoon Become a Happily Married Couple]]></title>
             <link>https://www.mymusictaste.com/news/park-eun-bin-and-rowoons-the-kings-affection-ends-on-its-highest-ratings-yet,3149/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Dec 2021 17:41:44 GMT</pubDate>
             <content:encoded><![CDATA[IVE’s Wonyoung faced criticisms for showing an insincere attitude during the “ELEVEN” performance. On the 12th, a post pointing out Wonyoung’s sloppy dance during a performance drew attention on a]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/311691_357986_159-600x400.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ahn Bo Hyun Replaces Kim Seon Ho in YoonA’s Upcoming Romance Movie ‘2 O’Clock Date’]]></title>
-            <link>https://www.mymusictaste.com/news/ahn-bo-hyun-to-substitute-kim-seon-ho-in-upcoming-romance-movie-2-oclock-date-starring-yoona,3130/</link>
-            <guid>https://www.mymusictaste.com/news/ahn-bo-hyun-to-substitute-kim-seon-ho-in-upcoming-romance-movie-2-oclock-date-starring-yoona,3130/</guid>
-            <pubDate>Tue, 14 Dec 2021 05:38:52 GMT</pubDate>
-            <content:encoded><![CDATA[Ahn Bo Hyun has joined YoonA in the upcoming rom-com 2 O’Clock Date (literal title). 2 O’Clock Date is a rom-com that centers around a mysterious woman who lives downstairs]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/dc087e240c9e05c306-crop-tile-crop-600x400.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
