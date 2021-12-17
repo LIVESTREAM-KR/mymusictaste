@@ -4,24 +4,32 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 17:46:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 05:39:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[IVE]]></title>
-            <link>https://www.mymusictaste.com/project/409294e6567111ecb8e90a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/409294e6567111ecb8e90a58a9feac02/</guid>
-            <pubDate>Mon, 06 Dec 2021 17:38:43 GMT</pubDate>
-            <content:encoded><![CDATA[The 1st Single Album [ELEVEN] Global Video Call Event]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/0e887c1a567111ecb4830a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[UP10TION]]></title>
+            <link>https://www.mymusictaste.com/project/8bff3c1a5e5b11ec9cf90a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/8bff3c1a5e5b11ec9cf90a58a9feac02/</guid>
+            <pubDate>Fri, 17 Dec 2021 05:39:28 GMT</pubDate>
+            <content:encoded><![CDATA[Meet &amp; Call Fansign Event]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/00cb96705eda11eca9580a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[FTISLAND]]></title>
-            <link>https://www.mymusictaste.com/project/a598625e534011ecbc180a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/a598625e534011ecbc180a58a9feac02/</guid>
-            <pubDate>Mon, 06 Dec 2021 17:38:43 GMT</pubDate>
-            <content:encoded><![CDATA[8TH MINI ALBUM 'LOCK UP' GLOBAL VIDEO CALL EVENT]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/5eaca840541011ec88fc0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[MMT]]></title>
+            <link>https://www.mymusictaste.com/project/114a03d45bb911ec838d0a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/114a03d45bb911ec838d0a58a9feac02/</guid>
+            <pubDate>Fri, 17 Dec 2021 05:39:28 GMT</pubDate>
+            <content:encoded><![CDATA[MYMUSICTASTE HOLIDAY SEASON SALE]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/9f7cc4f65d4a11ec8bc70a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[MMT]]></title>
+            <link>https://www.mymusictaste.com/project/c9ef8d065bb811eca8780a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/c9ef8d065bb811eca8780a58a9feac02/</guid>
+            <pubDate>Fri, 17 Dec 2021 05:39:28 GMT</pubDate>
+            <content:encoded><![CDATA[MYMUSICTASTE HOLIDAY SEASON SALE]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/88fc88be5d4911ecbf380a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[ATEEZ]]></title>
