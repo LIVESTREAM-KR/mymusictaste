@@ -4,7 +4,7 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 17:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 05:39:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Tue, 30 Nov 2021 17:44:14 GMT</pubDate>
             <content:encoded><![CDATA[2022 WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] FANSIGN EVENT IN LA]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/ca624c4a540d11ecbbaf0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[VERIVERY]]></title>
-            <link>https://www.mymusictaste.com/project/3a96eac62fdb11ec8f820a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/3a96eac62fdb11ec8f820a58a9feac02/</guid>
-            <pubDate>Fri, 26 Nov 2021 19:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[2021 Meet &amp; Greet with VERIVERY IN U.S.]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/44c3663632f711ec9e960a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[ATEEZ]]></title>
