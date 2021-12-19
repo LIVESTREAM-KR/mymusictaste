@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 17:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 05:39:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ONEUS]]></title>
+            <link>https://www.mymusictaste.com/project/b661b89a588c11ec802e0a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/b661b89a588c11ec802e0a58a9feac02/</guid>
+            <pubDate>Sun, 19 Dec 2021 05:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[6TH MINI ALBUM 'BLOOD MOON' CALL TOMOON FAN SIGN]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/5a2e32ca5d7d11ec8e340a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[UP10TION]]></title>
             <link>https://www.mymusictaste.com/project/8bff3c1a5e5b11ec9cf90a58a9feac02/</link>
@@ -54,14 +62,6 @@
             <pubDate>Tue, 30 Nov 2021 17:44:14 GMT</pubDate>
             <content:encoded><![CDATA[2022 WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] FANSIGN EVENT IN LA]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/ca624c4a540d11ecbbaf0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATEEZ]]></title>
-            <link>https://www.mymusictaste.com/project/a7df6e022ff111eca9200a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/a7df6e022ff111eca9200a58a9feac02/</guid>
-            <pubDate>Fri, 26 Nov 2021 19:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[XR SHOW [FEVER : eXtended edition]]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/dac55478315111ec8ed50a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

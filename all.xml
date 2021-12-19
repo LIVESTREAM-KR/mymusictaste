@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 17:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 05:39:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/97c9276c5beb11eb85260a58a9feac2a.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[[K-Star’s Best Character] The Face of a Young Man Named Choi Woo Shik (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/k-stars-best-character-the-face-of-a-young-man-named-choi-woo-shik,3171/</link>
+            <guid>https://www.mymusictaste.com/news/k-stars-best-character-the-face-of-a-young-man-named-choi-woo-shik,3171/</guid>
+            <pubDate>Sun, 19 Dec 2021 05:39:25 GMT</pubDate>
+            <content:encoded><![CDATA[Edited by Seo Hayne Translated by Esther Lee Choi Woo Shik is an actor who has a young and innocent look. Despite being over thirty, his youthful appearance and natural]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/Choi-Woo-Shik_thumbnail-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Weekly TV Top 10] ‘The Red Sleeve’ Keeps Its Top Spot; ‘Happiness’ Ends at No. 3 (MyMusicTaste ─ News)]]></title>
             <link>https://www.mymusictaste.com/news/weekly-tv-top-10-the-red-sleeve-keeps-its-top-spot-happiness-ends-at-no-3,3170/</link>
             <guid>https://www.mymusictaste.com/news/weekly-tv-top-10-the-red-sleeve-keeps-its-top-spot-happiness-ends-at-no-3,3170/</guid>
@@ -320,18 +328,10 @@
             <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/268449243_601357844503149_7800126102694043216_n-crop-600x400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘Artificial City’ Achieves Its Highest Ratings Yet as ‘Melancholia’ Sees a Slight Rise (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/artificial-city-achieves-its-highest-ratings-yet-as-melancholia-sees-a-slight-rise,3151/</link>
-            <guid>https://www.mymusictaste.com/news/artificial-city-achieves-its-highest-ratings-yet-as-melancholia-sees-a-slight-rise,3151/</guid>
-            <pubDate>Thu, 16 Dec 2021 17:46:12 GMT</pubDate>
-            <content:encoded><![CDATA[Artificial City&nbsp;has achieved its highest viewership ratings yet. According to Nielsen Korea, the third episode of Artificial City scored an average nationwide viewership rating of 3.9 percent. In this episode,]]></content:encoded>
-            <enclosure url="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIiB2aWV3Qm94PSIwIDAgMzAwIDMwMCI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGZpbGw9IiNGNUY1RjUiIGQ9Ik0wIDBoMzAwdjMwMEgweiIvPgogICAgICAgIDxwYXRoIGZpbGw9IiNFNUU1RTUiIGQ9Ik0xODAuNjI1IDE1Ni4wNHYtNDQuNzQyYzAtLjYxNy0uNTU5LTEuMTczLTEuMTgtMS4xNzNoLS44MDdsLTguMjcyIDQuMDczLTMxLjI2IDE1LjU3LS45MTMuNDdjLS4xNzEuMDktMS4wMzIuNTktMS4wMzIgMS4yMDd2MzIuNjI4YTEzLjAxOCAxMy4wMTggMCAwIDAtMy43MDUtLjUzNyAxMi43NzcgMTIuNzc3IDAgMCAwLTEyLjgzMSAxMi44M2MwIDcuMTA4IDUuNjgzIDEyLjc1OSAxMi44MzEgMTIuNzU5IDcuMTQ5IDAgMTIuODY3LTUuNjUxIDEyLjg2Ny0xMi43NTkgMC0uMzA0LS4wMTQtLjYwNS0uMDM1LS45MDN2LTM4LjQ3NmwyNS4wODUtMTIuOTA5aC4xMjV2MTkuNjc5YTEzLjAxNCAxMy4wMTQgMCAwIDAtMy43NC0uNTQ2IDEyLjc3NyAxMi43NzcgMCAwIDAtMTIuODMxIDEyLjgzYzAgNy4xMDcgNS42ODMgMTIuNzU4IDEyLjgzIDEyLjc1OCA3LjA4MyAwIDEyLjc1OS01LjU0OCAxMi44NjMtMTIuNTYzLjAwMy0uMDI5LjAwNS0uMDU4LjAwNS0uMDg3di0uMTA4eiIvPgogICAgPC9nPgo8L3N2Zz4K" length="0" type="image/image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIiB2aWV3Qm94PSIwIDAgMzAwIDMwMCI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGZpbGw9IiNGNUY1RjUiIGQ9Ik0wIDBoMzAwdjMwMEgweiIvPgogICAgICAgIDxwYXRoIGZpbGw9IiNFNUU1RTUiIGQ9Ik0xODAuNjI1IDE1Ni4wNHYtNDQuNzQyYzAtLjYxNy0uNTU5LTEuMTczLTEuMTgtMS4xNzNoLS44MDdsLTguMjcyIDQuMDczLTMxLjI2IDE1LjU3LS45MTMuNDdjLS4xNzEuMDktMS4wMzIuNTktMS4wMzIgMS4yMDd2MzIuNjI4YTEzLjAxOCAxMy4wMTggMCAwIDAtMy43MDUtLjUzNyAxMi43NzcgMTIuNzc3IDAgMCAwLTEyLjgzMSAxMi44M2MwIDcuMTA4IDUuNjgzIDEyLjc1OSAxMi44MzEgMTIuNzU5IDcuMTQ5IDAgMTIuODY3LTUuNjUxIDEyLjg2Ny0xMi43NTkgMC0uMzA0LS4wMTQtLjYwNS0uMDM1LS45MDN2LTM4LjQ3NmwyNS4wODUtMTIuOTA5aC4xMjV2MTkuNjc5YTEzLjAxNCAxMy4wMTQgMCAwIDAtMy43NC0uNTQ2IDEyLjc3NyAxMi43NzcgMCAwIDAtMTIuODMxIDEyLjgzYzAgNy4xMDcgNS42ODMgMTIuNzU4IDEyLjgzIDEyLjc1OCA3LjA4MyAwIDEyLjc1OS01LjU0OCAxMi44NjMtMTIuNTYzLjAwMy0uMDI5LjAwNS0uMDU4LjAwNS0uMDg3di0uMTA4eiIvPgogICAgPC9nPgo8L3N2Zz4K"/>
-        </item>
-        <item>
             <title><![CDATA[ATEEZ WORLD TOUR THE FELLOWSHIP : BEGINNING OF THE END IN EUROPE (MyMusicTaste ─ Events)]]></title>
             <link>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</guid>
-            <pubDate>Sat, 18 Dec 2021 17:46:05 GMT</pubDate>
+            <pubDate>Sun, 19 Dec 2021 05:39:35 GMT</pubDate>
             <content:encoded><![CDATA[<header class="sc-1sxlxw0-3 sc-1y7b7pa-16 gFVYBC leRxIM"><h3 class="sc-1sxlxw0-4 sc-1y7b7pa-9 kfJLAM ijmVUi">ATEEZ WORLD TOUR THE FELLOWSHIP : BEGINNING OF THE END IN EUROPE</h3><p class="sc-1sxlxw0-5 sc-1y7b7pa-12 ffZpFc btEoHQ">3/29/2020 - 3/1/2022</p></header><div class="sc-1y7b7pa-11 gmhJdT"><p class="sc-1sxlxw0-6 sc-1y7b7pa-13 jPAaEf dIHwFh"></p><p class="sc-1sxlxw0-6 sc-1y7b7pa-14 jPAaEf gCDQLo">Europe</p></div><p class="sc-1sxlxw0-6 sc-1y7b7pa-15 jPAaEf haNrFJ">에이티즈 (ATEEZ)</p>]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/event/img/tour/440x616/eaa5b4fe455d11ec94270a58a9feac02.jpg" length="0" type="image/jpg"/>
         </item>
@@ -339,9 +339,17 @@
             <title><![CDATA[ATEEZ WORLD TOUR THE FELLOWSHIP: BEGINNING OF THE END IN USA (MyMusicTaste ─ Events)]]></title>
             <link>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</guid>
-            <pubDate>Sat, 18 Dec 2021 17:46:05 GMT</pubDate>
+            <pubDate>Sun, 19 Dec 2021 05:39:35 GMT</pubDate>
             <content:encoded><![CDATA[<header class="sc-1sxlxw0-3 sc-1y7b7pa-16 gFVYBC leRxIM"><h3 class="sc-1sxlxw0-4 sc-1y7b7pa-9 kfJLAM ijmVUi">ATEEZ WORLD TOUR THE FELLOWSHIP: BEGINNING OF THE END IN USA</h3><p class="sc-1sxlxw0-5 sc-1y7b7pa-12 ffZpFc btEoHQ">1/18/2022 - 1/30/2022</p></header><div class="sc-1y7b7pa-11 gmhJdT"><p class="sc-1sxlxw0-6 sc-1y7b7pa-13 jPAaEf dIHwFh"></p><p class="sc-1sxlxw0-6 sc-1y7b7pa-14 jPAaEf gCDQLo">North America</p></div><p class="sc-1sxlxw0-6 sc-1y7b7pa-15 jPAaEf haNrFJ">에이티즈 (ATEEZ)</p>]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/event/img/tour/440x616/414f3d5a455c11eca9b10a58a9feac02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ONEUS (MyMusicTaste ─ Shop)]]></title>
+            <link>https://www.mymusictaste.com/project/b661b89a588c11ec802e0a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/b661b89a588c11ec802e0a58a9feac02/</guid>
+            <pubDate>Sun, 19 Dec 2021 05:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[6TH MINI ALBUM 'BLOOD MOON' CALL TOMOON FAN SIGN]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/5a2e32ca5d7d11ec8e340a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[UP10TION (MyMusicTaste ─ Shop)]]></title>
@@ -390,14 +398,6 @@
             <pubDate>Tue, 30 Nov 2021 17:44:14 GMT</pubDate>
             <content:encoded><![CDATA[2022 WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] FANSIGN EVENT IN LA]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/ca624c4a540d11ecbbaf0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATEEZ (MyMusicTaste ─ Shop)]]></title>
-            <link>https://www.mymusictaste.com/project/a7df6e022ff111eca9200a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/a7df6e022ff111eca9200a58a9feac02/</guid>
-            <pubDate>Fri, 26 Nov 2021 19:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[XR SHOW [FEVER : eXtended edition]]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/dac55478315111ec8ed50a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
