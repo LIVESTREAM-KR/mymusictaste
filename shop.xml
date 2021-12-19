@@ -4,7 +4,7 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 05:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 17:46:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,30 +38,6 @@
             <pubDate>Fri, 17 Dec 2021 05:39:28 GMT</pubDate>
             <content:encoded><![CDATA[MYMUSICTASTE HOLIDAY SEASON SALE]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/88fc88be5d4911ecbf380a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATEEZ]]></title>
-            <link>https://www.mymusictaste.com/project/251f2f9250d111ec9ed80a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/251f2f9250d111ec9ed80a58a9feac02/</guid>
-            <pubDate>Tue, 30 Nov 2021 17:44:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022 WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] FANSIGN EVENT IN NEW YORK]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/d82eb0fe540d11ecbda10a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATEEZ]]></title>
-            <link>https://www.mymusictaste.com/project/80d97ce650d011ec8cd10a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/80d97ce650d011ec8cd10a58a9feac02/</guid>
-            <pubDate>Tue, 30 Nov 2021 17:44:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022 WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] FANSIGN EVENT IN MADRID]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/a2392a06540d11ec8ddc0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATEEZ]]></title>
-            <link>https://www.mymusictaste.com/project/e9fcc61250d011ec9e220a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/e9fcc61250d011ec9e220a58a9feac02/</guid>
-            <pubDate>Tue, 30 Nov 2021 17:44:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022 WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] FANSIGN EVENT IN LA]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/ca624c4a540d11ecbbaf0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

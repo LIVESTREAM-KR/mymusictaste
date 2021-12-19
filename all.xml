@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 05:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 17:46:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -331,7 +331,7 @@
             <title><![CDATA[ATEEZ WORLD TOUR THE FELLOWSHIP : BEGINNING OF THE END IN EUROPE (MyMusicTaste ─ Events)]]></title>
             <link>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</guid>
-            <pubDate>Sun, 19 Dec 2021 05:39:35 GMT</pubDate>
+            <pubDate>Sun, 19 Dec 2021 17:46:19 GMT</pubDate>
             <content:encoded><![CDATA[<header class="sc-1sxlxw0-3 sc-1y7b7pa-16 gFVYBC leRxIM"><h3 class="sc-1sxlxw0-4 sc-1y7b7pa-9 kfJLAM ijmVUi">ATEEZ WORLD TOUR THE FELLOWSHIP : BEGINNING OF THE END IN EUROPE</h3><p class="sc-1sxlxw0-5 sc-1y7b7pa-12 ffZpFc btEoHQ">3/29/2020 - 3/1/2022</p></header><div class="sc-1y7b7pa-11 gmhJdT"><p class="sc-1sxlxw0-6 sc-1y7b7pa-13 jPAaEf dIHwFh"></p><p class="sc-1sxlxw0-6 sc-1y7b7pa-14 jPAaEf gCDQLo">Europe</p></div><p class="sc-1sxlxw0-6 sc-1y7b7pa-15 jPAaEf haNrFJ">에이티즈 (ATEEZ)</p>]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/event/img/tour/440x616/eaa5b4fe455d11ec94270a58a9feac02.jpg" length="0" type="image/jpg"/>
         </item>
@@ -339,7 +339,7 @@
             <title><![CDATA[ATEEZ WORLD TOUR THE FELLOWSHIP: BEGINNING OF THE END IN USA (MyMusicTaste ─ Events)]]></title>
             <link>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</guid>
-            <pubDate>Sun, 19 Dec 2021 05:39:35 GMT</pubDate>
+            <pubDate>Sun, 19 Dec 2021 17:46:19 GMT</pubDate>
             <content:encoded><![CDATA[<header class="sc-1sxlxw0-3 sc-1y7b7pa-16 gFVYBC leRxIM"><h3 class="sc-1sxlxw0-4 sc-1y7b7pa-9 kfJLAM ijmVUi">ATEEZ WORLD TOUR THE FELLOWSHIP: BEGINNING OF THE END IN USA</h3><p class="sc-1sxlxw0-5 sc-1y7b7pa-12 ffZpFc btEoHQ">1/18/2022 - 1/30/2022</p></header><div class="sc-1y7b7pa-11 gmhJdT"><p class="sc-1sxlxw0-6 sc-1y7b7pa-13 jPAaEf dIHwFh"></p><p class="sc-1sxlxw0-6 sc-1y7b7pa-14 jPAaEf gCDQLo">North America</p></div><p class="sc-1sxlxw0-6 sc-1y7b7pa-15 jPAaEf haNrFJ">에이티즈 (ATEEZ)</p>]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/event/img/tour/440x616/414f3d5a455c11eca9b10a58a9feac02.jpg" length="0" type="image/jpg"/>
         </item>
@@ -374,30 +374,6 @@
             <pubDate>Fri, 17 Dec 2021 05:39:28 GMT</pubDate>
             <content:encoded><![CDATA[MYMUSICTASTE HOLIDAY SEASON SALE]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/88fc88be5d4911ecbf380a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATEEZ (MyMusicTaste ─ Shop)]]></title>
-            <link>https://www.mymusictaste.com/project/251f2f9250d111ec9ed80a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/251f2f9250d111ec9ed80a58a9feac02/</guid>
-            <pubDate>Tue, 30 Nov 2021 17:44:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022 WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] FANSIGN EVENT IN NEW YORK]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/d82eb0fe540d11ecbda10a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATEEZ (MyMusicTaste ─ Shop)]]></title>
-            <link>https://www.mymusictaste.com/project/80d97ce650d011ec8cd10a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/80d97ce650d011ec8cd10a58a9feac02/</guid>
-            <pubDate>Tue, 30 Nov 2021 17:44:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022 WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] FANSIGN EVENT IN MADRID]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/a2392a06540d11ec8ddc0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATEEZ (MyMusicTaste ─ Shop)]]></title>
-            <link>https://www.mymusictaste.com/project/e9fcc61250d011ec9e220a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/e9fcc61250d011ec9e220a58a9feac02/</guid>
-            <pubDate>Tue, 30 Nov 2021 17:44:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022 WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] FANSIGN EVENT IN LA]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/ca624c4a540d11ecbbaf0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
