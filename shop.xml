@@ -4,7 +4,7 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 05:40:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 17:48:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 20 Dec 2021 05:40:33 GMT</pubDate>
             <content:encoded><![CDATA[[NO LIMIT] Global Video Call Event]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/75f806585e2d11ecbf190a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ONEUS]]></title>
-            <link>https://www.mymusictaste.com/project/b661b89a588c11ec802e0a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/b661b89a588c11ec802e0a58a9feac02/</guid>
-            <pubDate>Sun, 19 Dec 2021 05:39:42 GMT</pubDate>
-            <content:encoded><![CDATA[6TH MINI ALBUM 'BLOOD MOON' CALL TOMOON FAN SIGN]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/5a2e32ca5d7d11ec8e340a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[UP10TION]]></title>
