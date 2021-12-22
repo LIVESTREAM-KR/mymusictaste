@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 05:40:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 17:48:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[P1Harmony]]></title>
+            <link>https://www.mymusictaste.com/project/e406fc86621b11ecaff60a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/e406fc86621b11ecaff60a58a9feac02/</guid>
+            <pubDate>Wed, 22 Dec 2021 17:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[3rd Mini Album [DISHARMONY : FIND OUT] GLOBAL VIDEO CALL EVENT]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/34f5440262d511ecbe230a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[MONSTA X]]></title>
             <link>https://www.mymusictaste.com/project/52631e585e2e11ecbf390a58a9feac02/</link>
