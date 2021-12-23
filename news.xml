@@ -4,9 +4,25 @@
         <title>MyMusicTaste ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 17:48:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 05:40:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[K-Drama Review] ‘Our Beloved Summer’: 3 Things that Make the Viewers’ Heart Flutter]]></title>
+            <link>https://www.mymusictaste.com/news/k-drama-review-our-beloved-summer-3-things-that-make-the-viewers-heart-flutter,3202/</link>
+            <guid>https://www.mymusictaste.com/news/k-drama-review-our-beloved-summer-3-things-that-make-the-viewers-heart-flutter,3202/</guid>
+            <pubDate>Thu, 23 Dec 2021 05:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[Edited by Hwang Hong Sun Translated by Kim Hoyeun The internet joke – “It was horrible being with you, so let’s never meet again” – is the perfect sentence describing]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/Our-Beloved-Summer_0-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jung Woo Sung, Hwang Jung Min and Park Hae Joon Confirmed to Star in New Movie]]></title>
+            <link>https://www.mymusictaste.com/news/jung-woo-sung-hwang-jung-min-and-park-hae-joon-confirmed-to-star-in-new-movie,3201/</link>
+            <guid>https://www.mymusictaste.com/news/jung-woo-sung-hwang-jung-min-and-park-hae-joon-confirmed-to-star-in-new-movie,3201/</guid>
+            <pubDate>Thu, 23 Dec 2021 05:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[Jung Woo Sung, Hwang Jung Min and Park Hae Joon will be starring together in an exciting new project of director Kim Sung Su who filmed Asura: City Of Madness,&nbsp;Flu,]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/cffc8f57-7e9a-42a8-8bd6-d8dc68bff12e-horz-e1640228302845-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Upcoming Drama] 3 Key Points to Look Forward to In New Netflix Original Series ‘The Silent Sea’]]></title>
             <link>https://www.mymusictaste.com/news/upcoming-drama-3-key-points-to-look-forward-to-in-new-netflix-original-series-the-silent-sea,3200/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 21 Dec 2021 05:40:13 GMT</pubDate>
             <content:encoded><![CDATA[KBS’ Moonshine&nbsp;premiered to strong viewership ratings, taking first place in its time slot across all networks. According to Nielsen Korea, the first episode of the new historical drama starring Yoo]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/1637719658233_348715-side-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TWICE’s Jeongyeon Will Not Take Part in Seoul Concerts Due To Health Issues]]></title>
-            <link>https://www.mymusictaste.com/news/twices-jeongyeon-will-not-take-part-in-seoul-concerts-due-to-health-issues,3182/</link>
-            <guid>https://www.mymusictaste.com/news/twices-jeongyeon-will-not-take-part-in-seoul-concerts-due-to-health-issues,3182/</guid>
-            <pubDate>Tue, 21 Dec 2021 05:40:13 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE’s Jungyeon will not be attending the group’s concerts in Seoul this week. TWICE’s 4th World Tour III is kicking off on the 25th in Seoul, and Jungyeon has decided]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/202112210924214773_d-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-pop Singer Shaun Announces a New Collaborative Single with R&B Artist Yuna]]></title>
-            <link>https://www.mymusictaste.com/news/k-pop-singer-shaun-announces-a-new-collaborative-single-with-rb-artist-yuna,3181/</link>
-            <guid>https://www.mymusictaste.com/news/k-pop-singer-shaun-announces-a-new-collaborative-single-with-rb-artist-yuna,3181/</guid>
-            <pubDate>Mon, 20 Dec 2021 17:48:15 GMT</pubDate>
-            <content:encoded><![CDATA[South Korean DJ and musician Shaun is partnering up with Malaysian R&amp;B artist Yuna for new music collaboration. Yuna will be writing the lyrics and topline, while Shaun will produce]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/page-6-600x400.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
