@@ -4,7 +4,7 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 05:45:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 17:47:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Wed, 22 Dec 2021 17:48:23 GMT</pubDate>
             <content:encoded><![CDATA[3rd Mini Album [DISHARMONY : FIND OUT] GLOBAL VIDEO CALL EVENT]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/34f5440262d511ecbe230a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[MONSTA X]]></title>
-            <link>https://www.mymusictaste.com/project/52631e585e2e11ecbf390a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/52631e585e2e11ecbf390a58a9feac02/</guid>
-            <pubDate>Mon, 20 Dec 2021 05:40:33 GMT</pubDate>
-            <content:encoded><![CDATA[[NO LIMIT] Global Video Call Event]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/75f806585e2d11ecbf190a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[UP10TION]]></title>
