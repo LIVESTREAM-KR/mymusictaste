@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 17:47:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 05:40:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MOMOLAND Joins the January Comeback Rush]]></title>
+            <link>https://www.mymusictaste.com/news/momoland-joins-the-january-comeback-rush,3235/</link>
+            <guid>https://www.mymusictaste.com/news/momoland-joins-the-january-comeback-rush,3235/</guid>
+            <pubDate>Tue, 28 Dec 2021 05:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[MOMOLAND is making a quick comeback. On December 28th, MLD Entertainment announced, “MOMOLAND will be making a comeback with a brand new song on January 14th.” This marks the group’s]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/MOMOLAND-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Top 10 Movies in Domestic Box Office for 2021]]></title>
             <link>https://www.mymusictaste.com/news/top-10-movies-in-domestic-box-office-for-2021,3234/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 24 Dec 2021 05:40:03 GMT</pubDate>
             <content:encoded><![CDATA[Netflix’s Single’s Inferno will release episodes 3 and 4 on Christmas, the most romantic day of the year. Netflix’s dating game show Single’s Inferno will release episodes 3 and 4]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/unnamed-crop3434-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jung Ho Yeon and Ma Dong Seok Named Among Variety’s International Breakout Stars of 2021]]></title>
-            <link>https://www.mymusictaste.com/news/jung-ho-yeon-and-ma-dong-seok-named-among-varietys-international-breakout-stars-of-2021,3215/</link>
-            <guid>https://www.mymusictaste.com/news/jung-ho-yeon-and-ma-dong-seok-named-among-varietys-international-breakout-stars-of-2021,3215/</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:03 GMT</pubDate>
-            <content:encoded><![CDATA[The recent edition of Variety Magazine included Ma Dong Seok and Jung Ho Yeon in their list of International Breakout Stars of 2021. On the 22nd, the online Hollywood magazine]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/c19c3ae5-4e56-4818-ba0e-b4164e62bc38-side-600x400.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
