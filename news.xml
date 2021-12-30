@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 17:47:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 05:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Reincarnation and Past Lives of the Main Characters in ‘Bulgasal’]]></title>
+            <link>https://www.mymusictaste.com/news/the-reincarnation-and-past-lives-of-the-main-characters-in-bulgasal,3257/</link>
+            <guid>https://www.mymusictaste.com/news/the-reincarnation-and-past-lives-of-the-main-characters-in-bulgasal,3257/</guid>
+            <pubDate>Thu, 30 Dec 2021 05:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[tvN’s Bulgasal: Immortal Souls&nbsp;is about an immortal man named Dan Hwal who has been hunting down the woman who destroyed his world 600 years ago. The story took unexpected turns]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/Bulgasal-Immortal-Souls-1-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yoo In Na Finds Herself Embroiled in ‘Snowdrop’ Controversy]]></title>
             <link>https://www.mymusictaste.com/news/yoo-in-na-finds-herself-embroiled-in-snowdrop-controversy,3256/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Dec 2021 17:47:32 GMT</pubDate>
             <content:encoded><![CDATA[Niel and Changjo decided not to renew their contract with TOP Media. However, the artists will continue on as members of Teen Top. On the 28th, TOP Media announced that]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/3717534263_TiaVG1Rl_8bdefeba3ce1e53c4aac1ced66dca57f49da4516-crop-tile-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EXO’s Sehun Aims at Audience’s Heart as Marksman in ‘The Pirates: Goblin Flag’]]></title>
-            <link>https://www.mymusictaste.com/news/exos-sehun-aims-at-audience-heart-as-marksman-in-the-pirates-goblin-flag,3237/</link>
-            <guid>https://www.mymusictaste.com/news/exos-sehun-aims-at-audience-heart-as-marksman-in-the-pirates-goblin-flag,3237/</guid>
-            <pubDate>Tue, 28 Dec 2021 17:47:32 GMT</pubDate>
-            <content:encoded><![CDATA[EXO’s Sehun will make his big-screen debut as a skilled marksman in the upcoming movie The Pirates: Goblin Flag. The Pirates: Goblin Flag follows the journey of pirates in finding]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/unnamed-1-crop-600x400.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 17:47:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 05:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BF]]></title>
+            <link>https://www.mymusictaste.com/project/0f0fa624688e11ecbac70a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/0f0fa624688e11ecbac70a58a9feac02/</guid>
+            <pubDate>Thu, 30 Dec 2021 05:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[[ADONIS] Global Video Call Event]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/79cea0b8690a11ec960a0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BLITZERS]]></title>
+            <link>https://www.mymusictaste.com/project/b013306c679011ecaa180a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/b013306c679011ecaa180a58a9feac02/</guid>
+            <pubDate>Thu, 30 Dec 2021 05:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[1ST SINGLE 'BOBBIN' Global Video Call Fan Sign Event]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/60c6f002678f11eca6830a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[MOON BYUL]]></title>
             <link>https://www.mymusictaste.com/project/42e20de863b011ecb1830a58a9feac02/</link>
