@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 17:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 05:40:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Weekly TV Top 10] ‘The Red Sleeve’ Ranks Atop for 7 Consecutive Week]]></title>
+            <link>https://www.mymusictaste.com/news/weekly-tv-top-10-the-red-sleeve-ranks-atop-for-7-consecutive-week,3280/</link>
+            <guid>https://www.mymusictaste.com/news/weekly-tv-top-10-the-red-sleeve-ranks-atop-for-7-consecutive-week,3280/</guid>
+            <pubDate>Sat, 01 Jan 2022 05:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[Drama Ranking for the 4th Week of December MBC’s The Red Sleeve kept its top spot for seven consecutive weeks. Lee Junho and Lee Se Young’s kiss scene became a]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/The-Red-Sleeve-1-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘Now, We Are Breaking Up’ Drops Photos of Song Hye Kyo and Jang Ki Yong to Soothe the Disappointment of Canceling Today’s Episode]]></title>
             <link>https://www.mymusictaste.com/news/now-we-are-breaking-up-drops-photos-of-song-hye-kyo-and-jang-ki-yong-to-soothe-the-disappointment-of-canceling-todays-episode,3279/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 30 Dec 2021 17:47:31 GMT</pubDate>
             <content:encoded><![CDATA[Edited by Jeon Gyeong Ju Translated by Kim Hoyeun The Silent Sea, the last Korean project of Netflix for this year, has been a hot topic since the production stage.]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/Bae-Doona-00-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘The Pirates: Goblin Flag’ Drops 16 Still Photos of the Dynamic Adventure]]></title>
-            <link>https://www.mymusictaste.com/news/the-pirates-goblin-flag-drops-16-still-photos-of-the-dynamic-adventure,3260/</link>
-            <guid>https://www.mymusictaste.com/news/the-pirates-goblin-flag-drops-16-still-photos-of-the-dynamic-adventure,3260/</guid>
-            <pubDate>Thu, 30 Dec 2021 17:47:31 GMT</pubDate>
-            <content:encoded><![CDATA[‘The Pirates: Goblin Flag‘ unveiled the 16 still photos of the characters’ dynamic adventure. The Pirates: Goblin Flag follows the journey of pirates in finding the lost treasure of a]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2021/12/still_01-crop-tile-600x400.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
