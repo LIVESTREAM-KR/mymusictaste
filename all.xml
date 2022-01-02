@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 05:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 17:46:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -331,7 +331,7 @@
             <title><![CDATA[ATEEZ WORLD TOUR THE FELLOWSHIP: BEGINNING OF THE END IN USA (MyMusicTaste ─ Events)]]></title>
             <link>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</guid>
-            <pubDate>Sun, 02 Jan 2022 05:39:45 GMT</pubDate>
+            <pubDate>Sun, 02 Jan 2022 17:46:33 GMT</pubDate>
             <content:encoded><![CDATA[<header class="sc-1sxlxw0-3 sc-1y7b7pa-16 gFVYBC leRxIM"><h3 class="sc-1sxlxw0-4 sc-1y7b7pa-9 kfJLAM ijmVUi">ATEEZ WORLD TOUR THE FELLOWSHIP: BEGINNING OF THE END IN USA</h3><p class="sc-1sxlxw0-5 sc-1y7b7pa-12 ffZpFc btEoHQ">1/18/2022 - 1/30/2022</p></header><div class="sc-1y7b7pa-11 gmhJdT"><p class="sc-1sxlxw0-6 sc-1y7b7pa-13 jPAaEf dIHwFh"></p><p class="sc-1sxlxw0-6 sc-1y7b7pa-14 jPAaEf gCDQLo">North America</p></div><p class="sc-1sxlxw0-6 sc-1y7b7pa-15 jPAaEf haNrFJ">에이티즈 (ATEEZ)</p>]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/event/img/tour/440x616/414f3d5a455c11eca9b10a58a9feac02.jpg" length="0" type="image/jpg"/>
         </item>
@@ -339,7 +339,7 @@
             <title><![CDATA[ATEEZ WORLD TOUR THE FELLOWSHIP : BEGINNING OF THE END IN EUROPE (MyMusicTaste ─ Events)]]></title>
             <link>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</guid>
-            <pubDate>Sun, 02 Jan 2022 05:39:45 GMT</pubDate>
+            <pubDate>Sun, 02 Jan 2022 17:46:33 GMT</pubDate>
             <content:encoded><![CDATA[<header class="sc-1sxlxw0-3 sc-1y7b7pa-16 gFVYBC leRxIM"><h3 class="sc-1sxlxw0-4 sc-1y7b7pa-9 kfJLAM ijmVUi">ATEEZ WORLD TOUR THE FELLOWSHIP : BEGINNING OF THE END IN EUROPE</h3><p class="sc-1sxlxw0-5 sc-1y7b7pa-12 ffZpFc btEoHQ">3/29/2020 - 3/1/2022</p></header><div class="sc-1y7b7pa-11 gmhJdT"><p class="sc-1sxlxw0-6 sc-1y7b7pa-13 jPAaEf dIHwFh"></p><p class="sc-1sxlxw0-6 sc-1y7b7pa-14 jPAaEf gCDQLo">Europe</p></div><p class="sc-1sxlxw0-6 sc-1y7b7pa-15 jPAaEf haNrFJ">에이티즈 (ATEEZ)</p>]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/event/img/tour/440x616/eaa5b4fe455d11ec94270a58a9feac02.jpg" length="0" type="image/jpg"/>
         </item>
@@ -350,14 +350,6 @@
             <pubDate>Thu, 30 Dec 2021 05:40:23 GMT</pubDate>
             <content:encoded><![CDATA[[ADONIS] Global Video Call Event]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/79cea0b8690a11ec960a0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLITZERS (MyMusicTaste ─ Shop)]]></title>
-            <link>https://www.mymusictaste.com/project/b013306c679011ecaa180a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/b013306c679011ecaa180a58a9feac02/</guid>
-            <pubDate>Thu, 30 Dec 2021 05:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[1ST SINGLE 'BOBBIN' Global Video Call Fan Sign Event]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/60c6f002678f11eca6830a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[MOON BYUL (MyMusicTaste ─ Shop)]]></title>
@@ -398,22 +390,6 @@
             <pubDate>Fri, 24 Dec 2021 05:40:19 GMT</pubDate>
             <content:encoded><![CDATA[OFFICIAL LIGHT STICK + LIGHT STICK CASE]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/34b35c10f99011eb95ea0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[P1Harmony (MyMusicTaste ─ Shop)]]></title>
-            <link>https://www.mymusictaste.com/project/e406fc86621b11ecaff60a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/e406fc86621b11ecaff60a58a9feac02/</guid>
-            <pubDate>Wed, 22 Dec 2021 17:48:23 GMT</pubDate>
-            <content:encoded><![CDATA[3rd Mini Album [DISHARMONY : FIND OUT] GLOBAL VIDEO CALL EVENT]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/34f5440262d511ecbe230a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UP10TION (MyMusicTaste ─ Shop)]]></title>
-            <link>https://www.mymusictaste.com/project/8bff3c1a5e5b11ec9cf90a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/8bff3c1a5e5b11ec9cf90a58a9feac02/</guid>
-            <pubDate>Fri, 17 Dec 2021 05:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[Meet &amp; Call Fansign Event]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/00cb96705eda11eca9580a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[MMT (MyMusicTaste ─ Shop)]]></title>
