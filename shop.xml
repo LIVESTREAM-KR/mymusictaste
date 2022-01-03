@@ -4,7 +4,7 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 05:40:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 17:48:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Fri, 24 Dec 2021 17:47:31 GMT</pubDate>
             <content:encoded><![CDATA[3rd Mini Album [6equence]]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/d7cdab86645911ecb5540a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ONEWE]]></title>
-            <link>https://www.mymusictaste.com/project/456abc2263f411ec94410a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/456abc2263f411ec94410a58a9feac02/</guid>
-            <pubDate>Fri, 24 Dec 2021 17:47:31 GMT</pubDate>
-            <content:encoded><![CDATA[2ND MINI ALBUM [Planet Nine : VOYAGER]]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/bd7c2e9e645811ec9b3b0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[ATEEZ]]></title>
