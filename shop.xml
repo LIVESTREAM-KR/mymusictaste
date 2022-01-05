@@ -4,9 +4,57 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 05:41:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 17:50:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ATEEZ]]></title>
+            <link>https://www.mymusictaste.com/project/02cc37466c5511ec96c50a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/02cc37466c5511ec96c50a58a9feac02/</guid>
+            <pubDate>Wed, 05 Jan 2022 17:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[THE FELLOWSHIP EVENT IN LOS ANGELES (JAN. 30)]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/7a7d36866e1211ec899c0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ATEEZ]]></title>
+            <link>https://www.mymusictaste.com/project/23adbdfa6c5511ec83da0a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/23adbdfa6c5511ec83da0a58a9feac02/</guid>
+            <pubDate>Wed, 05 Jan 2022 17:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[THE FELLOWSHIP EVENT IN LOS ANGELES (JAN. 31)]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/1c7d48e46e1211ec8a8a0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ATEEZ]]></title>
+            <link>https://www.mymusictaste.com/project/7638dcbe6c5411ec83eb0a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/7638dcbe6c5411ec83eb0a58a9feac02/</guid>
+            <pubDate>Wed, 05 Jan 2022 17:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[THE FELLOWSHIP EVENT IN ATLANTA]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/33b861a26e1311ecb0480a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ATEEZ]]></title>
+            <link>https://www.mymusictaste.com/project/9d93624a6c5411ecad7d0a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/9d93624a6c5411ecad7d0a58a9feac02/</guid>
+            <pubDate>Wed, 05 Jan 2022 17:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[THE FELLOWSHIP EVENT IN NEWARK]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/fd71bafa6e1211ec94730a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ATEEZ]]></title>
+            <link>https://www.mymusictaste.com/project/d7b51e306c5411ecbcbd0a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/d7b51e306c5411ecbcbd0a58a9feac02/</guid>
+            <pubDate>Wed, 05 Jan 2022 17:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[THE FELLOWSHIP EVENT IN DALLAS]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/bd426d0a6e1211eca47b0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ATEEZ]]></title>
+            <link>https://www.mymusictaste.com/project/2db95b2c6c5411ec8b3e0a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/2db95b2c6c5411ec8b3e0a58a9feac02/</guid>
+            <pubDate>Wed, 05 Jan 2022 17:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[THE FELLOWSHIP EVENT IN CHICAGO]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/673b13e86e1311ec85540a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Victon]]></title>
             <link>https://www.mymusictaste.com/project/e0bf3148688e11eca44e0a58a9feac02/</link>
