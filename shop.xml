@@ -4,7 +4,7 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 17:50:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 05:41:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,22 +38,6 @@
             <pubDate>Wed, 05 Jan 2022 17:50:00 GMT</pubDate>
             <content:encoded><![CDATA[THE FELLOWSHIP EVENT IN NEWARK]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/fd71bafa6e1211ec94730a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATEEZ]]></title>
-            <link>https://www.mymusictaste.com/project/d7b51e306c5411ecbcbd0a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/d7b51e306c5411ecbcbd0a58a9feac02/</guid>
-            <pubDate>Wed, 05 Jan 2022 17:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[THE FELLOWSHIP EVENT IN DALLAS]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/bd426d0a6e1211eca47b0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATEEZ]]></title>
-            <link>https://www.mymusictaste.com/project/2db95b2c6c5411ec8b3e0a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/2db95b2c6c5411ec8b3e0a58a9feac02/</guid>
-            <pubDate>Wed, 05 Jan 2022 17:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[THE FELLOWSHIP EVENT IN CHICAGO]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/673b13e86e1311ec85540a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Victon]]></title>

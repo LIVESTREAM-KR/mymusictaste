@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 17:50:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 05:41:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[K-Drama Review] ‘Snowdrop’: It Got Off on the Wrong Foot]]></title>
+            <link>https://www.mymusictaste.com/news/k-drama-review-snowdrop-it-got-off-on-the-wrong-foot,3317/</link>
+            <guid>https://www.mymusictaste.com/news/k-drama-review-snowdrop-it-got-off-on-the-wrong-foot,3317/</guid>
+            <pubDate>Thu, 06 Jan 2022 05:41:18 GMT</pubDate>
+            <content:encoded><![CDATA[Edited by Kim Won Hee Translated by Kim Hoyeun JTBC’s Snowdrop continues to be a hot potato ever since its first synopsis was leaked. In response to this, the production]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/Snowdrop-00-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘Snowdrop’ Actress Kim Mi Soo Passes Away]]></title>
             <link>https://www.mymusictaste.com/news/snowdrop-actress-kim-mi-soo-passes-away,3316/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 04 Jan 2022 17:48:39 GMT</pubDate>
             <content:encoded><![CDATA[tvN’s Ghost Doctor got off to a flying start, scoring an average nationwide viewership rating of 4.4 percent. The first episode started off reflecting on Cha Young Min’s (Rain) legendary]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/Rain-drama-Ghost-Doctor-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLACKPINK’s Lisa Becomes the Most Successful Female K-pop Artist on Pop Radio in America]]></title>
-            <link>https://www.mymusictaste.com/news/blackpinks-lisa-becomes-the-most-successful-female-k-pop-artist-in-pop-radio-in-america,3297/</link>
-            <guid>https://www.mymusictaste.com/news/blackpinks-lisa-becomes-the-most-successful-female-k-pop-artist-in-pop-radio-in-america,3297/</guid>
-            <pubDate>Tue, 04 Jan 2022 17:48:39 GMT</pubDate>
-            <content:encoded><![CDATA[BLACKPINK’s Lisa set a new record for a K-pop female artist on the radio, considered the root of the American pop music market. Lisa’s solo track “MONEY” peaked at No.]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/blackpink-lisa-lalisa-crop-600x400.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
