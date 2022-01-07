@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 17:49:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 05:41:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Reasons Why Viewers Can’t Help But Get Too Immersed in ‘Our Beloved Summer’]]></title>
+            <link>https://www.mymusictaste.com/news/reasons-why-viewers-cant-help-but-get-too-immersed-in-our-beloved-summer,3329/</link>
+            <guid>https://www.mymusictaste.com/news/reasons-why-viewers-cant-help-but-get-too-immersed-in-our-beloved-summer,3329/</guid>
+            <pubDate>Fri, 07 Jan 2022 05:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[People are showing enthusiastic support to the “lovers reunited” romance of Choi Woong (Choi Woo Shik) and Kook Yeon Soo (Kim Da Mi). From their first meeting in high school]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/Our-Beloved-Summer-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PICK] From Kim Woo Bin to Lee Min Ho; Big Stars Returning to TV in 2022]]></title>
             <link>https://www.mymusictaste.com/news/pick-from-kim-woo-bin-to-lee-min-ho-big-stars-returning-to-tv-in-2022,3328/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 05 Jan 2022 17:49:42 GMT</pubDate>
             <content:encoded><![CDATA[JTBC dropped two teasers of the upcoming weekend drama KMA People: Office Romance Cruelty. KMA People: Office Romance Cruelty revolves around the romance and everyday lives of people working in]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/Song-Kang-Park-Min-Young-600x400.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Special Delivery’ Gives a Glimpse into the Story Full of “Rapid, Power, and Match”]]></title>
-            <link>https://www.mymusictaste.com/news/special-delivery-gives-a-glimpse-into-the-story-full-of-rapid-power-and-match,3309/</link>
-            <guid>https://www.mymusictaste.com/news/special-delivery-gives-a-glimpse-into-the-story-full-of-rapid-power-and-match,3309/</guid>
-            <pubDate>Wed, 05 Jan 2022 17:49:42 GMT</pubDate>
-            <content:encoded><![CDATA[Special Delivery dropped the “R.P.M behind-the-scenes clip,” where the synergy of thrilling action scenes and actors’ passion explode. The upcoming crime-action flick revolves around a professional delivery expert named Eun]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/02-600x400.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
