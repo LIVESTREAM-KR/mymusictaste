@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 17:49:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 05:40:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/97c9276c5beb11eb85260a58a9feac2a.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[[Weekly TV Top 10] ‘The Red Sleeve’ Ends in First Place with an Ending that Made Everyone Cry (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/weekly-tv-top-10-the-red-sleeve-ends-in-first-place-with-an-ending-that-made-everyone-cry,3340/</link>
+            <guid>https://www.mymusictaste.com/news/weekly-tv-top-10-the-red-sleeve-ends-in-first-place-with-an-ending-that-made-everyone-cry,3340/</guid>
+            <pubDate>Sat, 08 Jan 2022 05:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[Drama Ranking for the 5th Week of December MBC’s The Red Sleeve kept its top spot throughout its broadcast and ended atop. Viewers showed enthusiastic support of the perfect harmony]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/270235052_3165475750341685_8859549365609380018_n-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Which Couple Will Win an Escape From the Inferno Island in Netflix’s ‘Single’s Inferno’? (MyMusicTaste ─ News)]]></title>
             <link>https://www.mymusictaste.com/news/which-couple-will-win-an-escape-from-the-inferno-island-in-netflixs-singles-inferno,3339/</link>
             <guid>https://www.mymusictaste.com/news/which-couple-will-win-an-escape-from-the-inferno-island-in-netflixs-singles-inferno,3339/</guid>
@@ -320,18 +328,10 @@
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/208547465_358077942342930_524547118786635412_n-600x400.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Netflix Reveals a First-Look at Its Zombie Apocalypse Series ‘All of Us Are Dead’ (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/netflix-reveals-a-first-look-at-its-zombie-apocalypse-series-all-of-us-are-dead,3320/</link>
-            <guid>https://www.mymusictaste.com/news/netflix-reveals-a-first-look-at-its-zombie-apocalypse-series-all-of-us-are-dead,3320/</guid>
-            <pubDate>Thu, 06 Jan 2022 17:49:22 GMT</pubDate>
-            <content:encoded><![CDATA[Netflix’s All of Us Are Dead dropped its first batch of stills featuring its six main characters. All of Us Are Dead centers around a group of high school students]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/still_08-horz-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[ATEEZ WORLD TOUR THE FELLOWSHIP: BEGINNING OF THE END IN USA (MyMusicTaste ─ Events)]]></title>
             <link>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</guid>
-            <pubDate>Fri, 07 Jan 2022 17:49:29 GMT</pubDate>
+            <pubDate>Sat, 08 Jan 2022 05:40:42 GMT</pubDate>
             <content:encoded><![CDATA[<header class="sc-1sxlxw0-3 sc-1y7b7pa-16 gFVYBC leRxIM"><h3 class="sc-1sxlxw0-4 sc-1y7b7pa-9 kfJLAM ijmVUi">ATEEZ WORLD TOUR THE FELLOWSHIP: BEGINNING OF THE END IN USA</h3><p class="sc-1sxlxw0-5 sc-1y7b7pa-12 ffZpFc btEoHQ">1/18/2022 - 1/30/2022</p></header><div class="sc-1y7b7pa-11 gmhJdT"><p class="sc-1sxlxw0-6 sc-1y7b7pa-13 jPAaEf dIHwFh"></p><p class="sc-1sxlxw0-6 sc-1y7b7pa-14 jPAaEf gCDQLo">North America</p></div><p class="sc-1sxlxw0-6 sc-1y7b7pa-15 jPAaEf haNrFJ">에이티즈 (ATEEZ)</p>]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/event/img/tour/440x616/4179f6a86fc911ec967a0a58a9feac02.jpg" length="0" type="image/jpg"/>
         </item>
@@ -339,7 +339,7 @@
             <title><![CDATA[ATEEZ WORLD TOUR THE FELLOWSHIP : BEGINNING OF THE END IN EUROPE (MyMusicTaste ─ Events)]]></title>
             <link>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</guid>
-            <pubDate>Fri, 07 Jan 2022 17:49:29 GMT</pubDate>
+            <pubDate>Sat, 08 Jan 2022 05:40:42 GMT</pubDate>
             <content:encoded><![CDATA[<header class="sc-1sxlxw0-3 sc-1y7b7pa-16 gFVYBC leRxIM"><h3 class="sc-1sxlxw0-4 sc-1y7b7pa-9 kfJLAM ijmVUi">ATEEZ WORLD TOUR THE FELLOWSHIP : BEGINNING OF THE END IN EUROPE</h3><p class="sc-1sxlxw0-5 sc-1y7b7pa-12 ffZpFc btEoHQ">3/29/2020 - 3/1/2022</p></header><div class="sc-1y7b7pa-11 gmhJdT"><p class="sc-1sxlxw0-6 sc-1y7b7pa-13 jPAaEf dIHwFh"></p><p class="sc-1sxlxw0-6 sc-1y7b7pa-14 jPAaEf gCDQLo">Europe</p></div><p class="sc-1sxlxw0-6 sc-1y7b7pa-15 jPAaEf haNrFJ">에이티즈 (ATEEZ)</p>]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/event/img/tour/440x616/62acbb4c6fc811ecb2e80a58a9feac02.jpg" length="0" type="image/jpg"/>
         </item>
