@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 17:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 05:41:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[K-Star’s Best Character] Uie: The Queen of Weekend Shows]]></title>
+            <link>https://www.mymusictaste.com/news/k-stars-best-character-uie-the-queen-of-successful-weekend-dramas,3341/</link>
+            <guid>https://www.mymusictaste.com/news/k-stars-best-character-uie-the-queen-of-successful-weekend-dramas,3341/</guid>
+            <pubDate>Sun, 09 Jan 2022 05:40:45 GMT</pubDate>
+            <content:encoded><![CDATA[Edited by Seo Hayne Translated by Esther Lee Former After School member&nbsp;Uie&nbsp;has been active in both her singing and acting career. She made her acting debut in 2009 in MBC’s&nbsp;Queen]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/000-Uie-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Weekly TV Top 10] ‘The Red Sleeve’ Ends in First Place with an Ending that Made Everyone Cry]]></title>
             <link>https://www.mymusictaste.com/news/weekly-tv-top-10-the-red-sleeve-ends-in-first-place-with-an-ending-that-made-everyone-cry,3340/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 06 Jan 2022 17:49:22 GMT</pubDate>
             <content:encoded><![CDATA[The first special teaser of A Business Proposal has been unveiled. A Business Proposal tells the story of the CEO and his employee who met on a blind date under]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/maxresdefault-600x400.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS Cancels Their Flights to the States as Grammys Postponed This Year’s Awards Show]]></title>
-            <link>https://www.mymusictaste.com/news/bts-cancels-their-flights-to-the-states-as-grammys-postponed-this-years-awards-show,3321/</link>
-            <guid>https://www.mymusictaste.com/news/bts-cancels-their-flights-to-the-states-as-grammys-postponed-this-years-awards-show,3321/</guid>
-            <pubDate>Thu, 06 Jan 2022 17:49:22 GMT</pubDate>
-            <content:encoded><![CDATA[As the 2021 Grammy Awards got postponed, BTS also canceled their travel plan to the States scheduled for March. On the 5th (local time), Grammys officially announced the postponement of]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/208547465_358077942342930_524547118786635412_n-600x400.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
