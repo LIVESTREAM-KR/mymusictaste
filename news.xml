@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 17:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 05:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EVERGLOW’s Yiren Takes a Hiatus to Spend Time in China With Her Family]]></title>
+            <link>https://www.mymusictaste.com/news/everglows-yiren-takes-a-hiatus-to-spend-time-in-china-with-her-family,3342/</link>
+            <guid>https://www.mymusictaste.com/news/everglows-yiren-takes-a-hiatus-to-spend-time-in-china-with-her-family,3342/</guid>
+            <pubDate>Mon, 10 Jan 2022 05:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[EVERGLOW’s Yiren will take a break from activities in Korea. On January 9th, Yue Hua Entertainment posted a notice on the official fan website that Yiren will be returning to]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/dummy-1-600x400.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[K-Star’s Best Character] Uie: The Queen of Weekend Shows]]></title>
             <link>https://www.mymusictaste.com/news/k-stars-best-character-uie-the-queen-of-successful-weekend-dramas,3341/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 06 Jan 2022 17:49:22 GMT</pubDate>
             <content:encoded><![CDATA[Kim Seon Ho has decided to turn down all new projects in 2022 once he finishes his debut film Sad Tropics (literal title). The actor was embroiled in a controversy]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/2109450733_8M7dVXvq_75afedadd8efbd3c912d96ab361eaea02d8a5031-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘A Business Proposal’ Gives a Glimpse into Ahn Hyo Seop and Kim Se Jeong’s Blind Date with a Special Teaser]]></title>
-            <link>https://www.mymusictaste.com/news/a-business-proposal-gives-a-glimpse-into-ahn-hyo-seop-and-kim-se-jeongs-blind-date-with-a-special-teaser,3322/</link>
-            <guid>https://www.mymusictaste.com/news/a-business-proposal-gives-a-glimpse-into-ahn-hyo-seop-and-kim-se-jeongs-blind-date-with-a-special-teaser,3322/</guid>
-            <pubDate>Thu, 06 Jan 2022 17:49:22 GMT</pubDate>
-            <content:encoded><![CDATA[The first special teaser of A Business Proposal has been unveiled. A Business Proposal tells the story of the CEO and his employee who met on a blind date under]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/maxresdefault-600x400.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
