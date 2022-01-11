@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 17:50:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 05:40:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘Rookie Cops’ Unveils Captivating Poster that Features Kang Daniel, Chae Soo Bin, and More]]></title>
+            <link>https://www.mymusictaste.com/news/rookie-cops-unveils-captivating-poster-that-features-kang-daniel-chae-soo-bin-and-more,3353/</link>
+            <guid>https://www.mymusictaste.com/news/rookie-cops-unveils-captivating-poster-that-features-kang-daniel-chae-soo-bin-and-more,3353/</guid>
+            <pubDate>Tue, 11 Jan 2022 05:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[Disney+ original series Rookie Cops dropped a new poster featuring its eight main characters. Rookie Cops follows a group of new students entering the police academy to achieve their dreams.]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/rookie-cops-600x400.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[A Timeline of SE7EN and Lee Da Hae’s Eventful Love Story]]></title>
             <link>https://www.mymusictaste.com/news/a-timeline-of-se7en-and-lee-da-haes-eventful-love-story,3352/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 07 Jan 2022 17:49:21 GMT</pubDate>
             <content:encoded><![CDATA[Following “Dynamite,” BTS once again topped the digital song sales chart of 2021 with “Butter.” BTS set the record of best-selling digital track in the States for two consecutive years]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/maxresdefault-crop-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jang Dong Yoon and Nana Confirmed to Star in a New Fantasy Romance Drama]]></title>
-            <link>https://www.mymusictaste.com/news/jang-dong-yoon-and-nana-confirmed-to-star-in-a-new-fantasy-romance-drama,3333/</link>
-            <guid>https://www.mymusictaste.com/news/jang-dong-yoon-and-nana-confirmed-to-star-in-a-new-fantasy-romance-drama,3333/</guid>
-            <pubDate>Fri, 07 Jan 2022 17:49:21 GMT</pubDate>
-            <content:encoded><![CDATA[Jang Dong Yoon and Nana will be starring in the new fantasy drama called My Man Is Cupid (literal translation). My Man Is Cupid&nbsp;tells the story of a fairy who]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/5i3M3ccbi4hD637115079348098172-side-600x400.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
