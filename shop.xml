@@ -4,7 +4,7 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 05:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 17:49:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Tue, 11 Jan 2022 05:40:38 GMT</pubDate>
             <content:encoded><![CDATA[[6equence] Global Video Call]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/5765fc3071ec11ec84f60a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ONEUS]]></title>
+            <link>https://www.mymusictaste.com/project/06eaef346d2f11ecba750a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/06eaef346d2f11ecba750a58a9feac02/</guid>
+            <pubDate>Thu, 13 Jan 2022 17:49:57 GMT</pubDate>
+            <content:encoded><![CDATA[6TH MINI ALBUM 'BLOOD MOON' CALL TOMOON FAN SIGN]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/79b1ac0a6def11ecb99a0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ATEEZ]]></title>
+            <link>https://www.mymusictaste.com/project/02cc37466c5511ec96c50a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/02cc37466c5511ec96c50a58a9feac02/</guid>
+            <pubDate>Thu, 13 Jan 2022 17:49:57 GMT</pubDate>
+            <content:encoded><![CDATA[THE FELLOWSHIP EVENT IN LOS ANGELES (JAN. 30)]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/7a7d36866e1211ec899c0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[ATEEZ]]></title>
