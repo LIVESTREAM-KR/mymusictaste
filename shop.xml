@@ -4,7 +4,7 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 05:40:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 17:48:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Wed, 05 Jan 2022 17:50:00 GMT</pubDate>
             <content:encoded><![CDATA[THE FELLOWSHIP EVENT IN LOS ANGELES (JAN. 31)]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/1c7d48e46e1211ec8a8a0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATEEZ]]></title>
-            <link>https://www.mymusictaste.com/project/7638dcbe6c5411ec83eb0a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/7638dcbe6c5411ec83eb0a58a9feac02/</guid>
-            <pubDate>Wed, 05 Jan 2022 17:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[THE FELLOWSHIP EVENT IN ATLANTA]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/33b861a26e1311ecb0480a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Victon]]></title>
