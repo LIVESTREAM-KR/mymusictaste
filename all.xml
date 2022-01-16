@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 17:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 05:41:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/97c9276c5beb11eb85260a58a9feac2a.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[[K-Star’s Best Character] Lee Joon: A Great Example of a Successful Idol Turned Actor (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/k-stars-best-character-lee-joon-a-great-example-of-a-successful-idol-turned-actor,3397/</link>
+            <guid>https://www.mymusictaste.com/news/k-stars-best-character-lee-joon-a-great-example-of-a-successful-idol-turned-actor,3397/</guid>
+            <pubDate>Sun, 16 Jan 2022 05:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[Edited by Seo Hayne Translated by Esther Lee Although he originally dreamt of becoming an actor, Lee Joon set his foot in the entertainment industry as a member of the]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/Lee-Joon-1-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Weekly TV Top 10] ‘Our Beloved Summer’ Tops the Chart for the First Time (MyMusicTaste ─ News)]]></title>
             <link>https://www.mymusictaste.com/news/weekly-tv-top-10-our-beloved-summer-tops-the-chart-for-the-first-time,3396/</link>
             <guid>https://www.mymusictaste.com/news/weekly-tv-top-10-our-beloved-summer-tops-the-chart-for-the-first-time,3396/</guid>
@@ -320,18 +328,10 @@
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/dd-600x400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Gong Yoo Won’t Be Joining Kim Tae Ri in Kim Eun Hee’s New Drama After All (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/gong-yoo-wont-be-joining-kim-tae-ri-in-kim-eun-hees-new-drama-after-all,3377/</link>
-            <guid>https://www.mymusictaste.com/news/gong-yoo-wont-be-joining-kim-tae-ri-in-kim-eun-hees-new-drama-after-all,3377/</guid>
-            <pubDate>Thu, 13 Jan 2022 17:49:42 GMT</pubDate>
-            <content:encoded><![CDATA[Gong Yoo won’t be working with Kim Tae Ri and Kim Eun Hee. According to TV Daily, The Demon (literal title) will have to search for a new leading actor]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/d4df023e222da07d5f449087ced3ebe5b72a0e68322d6c2b9092c6bcf86bceee18af7f54f2bc9f0b935fd21e95f5735e0dc6bd781782ed8c9f119eb4a59d47d4e744cff16f3d8a796f4e95e92ad4717fba473ff12acbbe1d13450887c3d9bf42-crop-tile-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[ATEEZ WORLD TOUR THE FELLOWSHIP: BEGINNING OF THE END IN USA (MyMusicTaste ─ Events)]]></title>
             <link>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</guid>
-            <pubDate>Sat, 15 Jan 2022 17:47:51 GMT</pubDate>
+            <pubDate>Sun, 16 Jan 2022 05:41:12 GMT</pubDate>
             <content:encoded><![CDATA[<header class="sc-1sxlxw0-3 sc-1y7b7pa-16 gFVYBC leRxIM"><h3 class="sc-1sxlxw0-4 sc-1y7b7pa-9 kfJLAM ijmVUi">ATEEZ WORLD TOUR THE FELLOWSHIP: BEGINNING OF THE END IN USA</h3><p class="sc-1sxlxw0-5 sc-1y7b7pa-12 ffZpFc btEoHQ">1/18/2022 - 1/30/2022</p></header><div class="sc-1y7b7pa-11 gmhJdT"><p class="sc-1sxlxw0-6 sc-1y7b7pa-13 jPAaEf dIHwFh"></p><p class="sc-1sxlxw0-6 sc-1y7b7pa-14 jPAaEf gCDQLo">North America</p></div><p class="sc-1sxlxw0-6 sc-1y7b7pa-15 jPAaEf haNrFJ">에이티즈 (ATEEZ)</p>]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/event/img/tour/440x616/4179f6a86fc911ec967a0a58a9feac02.jpg" length="0" type="image/jpg"/>
         </item>
@@ -339,33 +339,17 @@
             <title><![CDATA[ATEEZ WORLD TOUR THE FELLOWSHIP : BEGINNING OF THE END IN EUROPE (MyMusicTaste ─ Events)]]></title>
             <link>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</guid>
-            <pubDate>Sat, 15 Jan 2022 17:47:51 GMT</pubDate>
+            <pubDate>Sun, 16 Jan 2022 05:41:12 GMT</pubDate>
             <content:encoded><![CDATA[<header class="sc-1sxlxw0-3 sc-1y7b7pa-16 gFVYBC leRxIM"><h3 class="sc-1sxlxw0-4 sc-1y7b7pa-9 kfJLAM ijmVUi">ATEEZ WORLD TOUR THE FELLOWSHIP : BEGINNING OF THE END IN EUROPE</h3><p class="sc-1sxlxw0-5 sc-1y7b7pa-12 ffZpFc btEoHQ">3/29/2020 - 3/1/2022</p></header><div class="sc-1y7b7pa-11 gmhJdT"><p class="sc-1sxlxw0-6 sc-1y7b7pa-13 jPAaEf dIHwFh"></p><p class="sc-1sxlxw0-6 sc-1y7b7pa-14 jPAaEf gCDQLo">Europe</p></div><p class="sc-1sxlxw0-6 sc-1y7b7pa-15 jPAaEf haNrFJ">에이티즈 (ATEEZ)</p>]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/event/img/tour/440x616/62acbb4c6fc811ecb2e80a58a9feac02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MOON BYUL (MyMusicTaste ─ Shop)]]></title>
-            <link>https://www.mymusictaste.com/project/66ef11ac6d2f11eca7d20a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/66ef11ac6d2f11eca7d20a58a9feac02/</guid>
-            <pubDate>Tue, 11 Jan 2022 05:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[[6equence] Global Video Call]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/5765fc3071ec11ec84f60a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ONEUS (MyMusicTaste ─ Shop)]]></title>
-            <link>https://www.mymusictaste.com/project/06eaef346d2f11ecba750a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/06eaef346d2f11ecba750a58a9feac02/</guid>
-            <pubDate>Thu, 13 Jan 2022 17:49:57 GMT</pubDate>
-            <content:encoded><![CDATA[6TH MINI ALBUM 'BLOOD MOON' CALL TOMOON FAN SIGN]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/79b1ac0a6def11ecb99a0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATEEZ (MyMusicTaste ─ Shop)]]></title>
-            <link>https://www.mymusictaste.com/project/02cc37466c5511ec96c50a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/02cc37466c5511ec96c50a58a9feac02/</guid>
-            <pubDate>Thu, 13 Jan 2022 17:49:57 GMT</pubDate>
-            <content:encoded><![CDATA[THE FELLOWSHIP EVENT IN LOS ANGELES (JAN. 30)]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/7a7d36866e1211ec899c0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[ONEWE (MyMusicTaste ─ Shop)]]></title>
+            <link>https://www.mymusictaste.com/project/5ccafdb0728d11ecb2880a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/5ccafdb0728d11ecb2880a58a9feac02/</guid>
+            <pubDate>Sun, 16 Jan 2022 05:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[2ND MINI ALBUM [Planet Nine : VOYAGER] CALL WEVE FAN SIGN]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/1b6f0fb6737811eca56e0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[ATEEZ (MyMusicTaste ─ Shop)]]></title>
