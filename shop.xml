@@ -4,7 +4,7 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 05:41:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 17:50:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Wed, 05 Jan 2022 17:50:00 GMT</pubDate>
             <content:encoded><![CDATA[THE FELLOWSHIP EVENT IN LOS ANGELES (JAN. 31)]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/1c7d48e46e1211ec8a8a0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Victon]]></title>
-            <link>https://www.mymusictaste.com/project/e0bf3148688e11eca44e0a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/e0bf3148688e11eca44e0a58a9feac02/</guid>
-            <pubDate>Mon, 03 Jan 2022 05:40:55 GMT</pubDate>
-            <content:encoded><![CDATA[VIDEO CALL EVENT WITH VICTON]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/21ecc2906c4d11ec82f20a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[MOON BYUL]]></title>
