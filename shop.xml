@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 05:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 17:43:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Victon]]></title>
+            <link>https://www.mymusictaste.com/project/752fb254776511eca7e60a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/752fb254776511eca7e60a58a9feac02/</guid>
+            <pubDate>Wed, 19 Jan 2022 17:43:09 GMT</pubDate>
+            <content:encoded><![CDATA[VIDEO CALL EVENT WITH VICTON]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/ff9bc5a2777511ec9cb20a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[이달의 소녀 (LOOΠΔ)]]></title>
             <link>https://www.mymusictaste.com/project/b46c59e875e811eca1130a58a9feac02/</link>
@@ -14,14 +22,6 @@
             <pubDate>Wed, 19 Jan 2022 05:38:12 GMT</pubDate>
             <content:encoded><![CDATA[2022 이달의 소녀 CONCERT [LOONAVERSE : FROM] - Individual MD]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/8ef6c4f0778111eca4990a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[A.C.E]]></title>
-            <link>https://www.mymusictaste.com/project/1de536c8773f11ecbccd0a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/1de536c8773f11ecbccd0a58a9feac02/</guid>
-            <pubDate>Tue, 18 Jan 2022 05:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[Global Video Call Event 'Remember Us']]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/2e6e3564781311ecb4420a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[이달의 소녀 (LOOΠΔ)]]></title>
