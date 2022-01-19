@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 17:50:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 05:38:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ji Sung, Seo Ji Hye and Lee Soo Kyung Confirmed to Star in a New Mystery Drama]]></title>
+            <link>https://www.mymusictaste.com/news/ji-sung-seo-ji-hye-and-lee-soo-kyung-confirmed-to-star-in-a-new-mystery-drama,3421/</link>
+            <guid>https://www.mymusictaste.com/news/ji-sung-seo-ji-hye-and-lee-soo-kyung-confirmed-to-star-in-a-new-mystery-drama,3421/</guid>
+            <pubDate>Wed, 19 Jan 2022 05:37:53 GMT</pubDate>
+            <content:encoded><![CDATA[Ji Sung, Seo Ji Hye, and Lee Soo Kyung will be starring in a new drama called Adamas (literal title). Adamas tells the story of the twin brothers who are]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/page-3-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Park Hyung Sik and Han So Hee Flaunts Their Sizzling Chemistry in New Their Upcoming Drama]]></title>
             <link>https://www.mymusictaste.com/news/park-hyung-sik-and-han-so-hee-flaunts-their-sizzling-chemistry-in-new-their-upcoming-drama,3420/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 17 Jan 2022 17:49:53 GMT</pubDate>
             <content:encoded><![CDATA[Lee Ha Nee is expecting her first child, announcing that she is four months pregnant. On January 16th, Saram Entertainment shared that the actress was expecting her first child. Although]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/%ED%94%84%EB%A1%AC%EB%B0%94%EC%9D%B4%EC%98%A4_%EC%9D%B4%ED%95%98%EB%8A%AC_0-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘The Red Sleeve’ Special Episode to Air During the Lunar New Year Holiday]]></title>
-            <link>https://www.mymusictaste.com/news/the-red-sleeve-special-episode-to-air-during-the-lunar-new-year-holiday,3401/</link>
-            <guid>https://www.mymusictaste.com/news/the-red-sleeve-special-episode-to-air-during-the-lunar-new-year-holiday,3401/</guid>
-            <pubDate>Mon, 17 Jan 2022 05:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[MBC has confirmed the release of Holding on to The Red Sleeve (literal title), a special episode for the hit drama The Red Sleeve, over the Lunar New Year holiday.]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/fc1984ca-0933-410a-9963-3e3a2f9ccf1f-600x400.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
