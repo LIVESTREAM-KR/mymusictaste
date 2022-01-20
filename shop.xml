@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 17:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 05:38:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DRIPPIN]]></title>
+            <link>https://www.mymusictaste.com/project/23c2aac8783e11ec89db0a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/23c2aac8783e11ec89db0a58a9feac02/</guid>
+            <pubDate>Thu, 20 Jan 2022 05:38:30 GMT</pubDate>
+            <content:encoded><![CDATA[3rd Mini Album [Villain] Video Call Event]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/28a820a8799111ec99d50a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Victon]]></title>
             <link>https://www.mymusictaste.com/project/752fb254776511eca7e60a58a9feac02/</link>
