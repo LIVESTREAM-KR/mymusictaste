@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 17:40:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 05:38:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[K-Star’s Best Character] Park So Dam’s Brief Break to Take Another Leap Forward]]></title>
+            <link>https://www.mymusictaste.com/news/k-stars-best-character-park-so-dams-brief-break-to-take-another-leap-forward,3458/</link>
+            <guid>https://www.mymusictaste.com/news/k-stars-best-character-park-so-dams-brief-break-to-take-another-leap-forward,3458/</guid>
+            <pubDate>Sun, 23 Jan 2022 05:38:02 GMT</pubDate>
+            <content:encoded><![CDATA[Edited by Seo Hayne Translated by Esther Lee Park So Dam made her acting debut in the 2013 short film No More No Less. Following this, she starred in more]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/Park-So-Dam-00-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Weekly TV Top 10] ‘Our Beloved Summer’ Takes the Top Spot Once Again]]></title>
             <link>https://www.mymusictaste.com/news/weekly-tv-top-10-our-beloved-summer-takes-the-top-spot-once-again,3457/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 20 Jan 2022 17:42:32 GMT</pubDate>
             <content:encoded><![CDATA[The popular KBS historical series ‘The King of Tears, Lee Bang Won’ got swept up in allegations of animal cruelty. On the 20th, the KAWA (Korean Animal Welfare Association) posted]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/image_readtop_2021_1112183_16384323304870760-tile-1-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lee Se Young Talks About Her Role in ‘The Red Sleeve,’ What It Means to Be an Actress, and More]]></title>
-            <link>https://www.mymusictaste.com/news/lee-se-young-talks-about-her-role-in-the-red-sleeve-what-it-means-to-be-an-actress-and-more,3438/</link>
-            <guid>https://www.mymusictaste.com/news/lee-se-young-talks-about-her-role-in-the-red-sleeve-what-it-means-to-be-an-actress-and-more,3438/</guid>
-            <pubDate>Thu, 20 Jan 2022 17:42:32 GMT</pubDate>
-            <content:encoded><![CDATA[Lee Se Young showed off her beauty in the recent pictorial in Vogue Korea. Then in the interview conducted afterward, she shared honest talks about who Lee Se Young really]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/style_61e7a22912692-crop-600x400.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
