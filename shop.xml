@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 17:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 05:38:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PENTAGON]]></title>
+            <link>https://www.mymusictaste.com/project/595acb8a7ce911ecb6780a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/595acb8a7ce911ecb6780a58a9feac02/</guid>
+            <pubDate>Wed, 26 Jan 2022 05:38:37 GMT</pubDate>
+            <content:encoded><![CDATA[12th Mini Album [IN:VITE U] Online Fansign Event]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/908db7347dba11ec86ab0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[원어스 (ONEUS)]]></title>
             <link>https://www.mymusictaste.com/project/fe56928c7c5811ecb5430a58a9feac02/</link>
