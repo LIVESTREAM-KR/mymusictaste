@@ -4,7 +4,7 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 05:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 17:41:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Tue, 25 Jan 2022 05:38:24 GMT</pubDate>
             <content:encoded><![CDATA[BLOOD MOON event]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/e53fe67e7c5811ec8bf00a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Victon]]></title>
-            <link>https://www.mymusictaste.com/project/752fb254776511eca7e60a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/752fb254776511eca7e60a58a9feac02/</guid>
-            <pubDate>Wed, 19 Jan 2022 17:43:09 GMT</pubDate>
-            <content:encoded><![CDATA[VIDEO CALL EVENT WITH VICTON]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/ff9bc5a2777511ec9cb20a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[이달의 소녀 (LOOΠΔ)]]></title>
