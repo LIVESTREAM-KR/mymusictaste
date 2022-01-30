@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 17:45:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 05:38:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[K-Star’s Best Character] Chae Soo Bin: An Actress Who Best Represents the Current Day Youth]]></title>
+            <link>https://www.mymusictaste.com/news/k-stars-best-character-chae-soo-bin-an-actress-who-possesses-the-face-of-the-current-day-youth,3518/</link>
+            <guid>https://www.mymusictaste.com/news/k-stars-best-character-chae-soo-bin-an-actress-who-possesses-the-face-of-the-current-day-youth,3518/</guid>
+            <pubDate>Sun, 30 Jan 2022 05:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[Edited by Seo Hayne Translated by Esther Lee Chae Soo Bin made her acting debut in MBC’s one-act play Drama Festival – The Diary of a Resentful Woman back in]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/Chae-Soo-Bin-1-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Weekly TV Top 10] ‘Bulgasal’ Ranks Atop for the First Time But Sees Mixed Actions from Viewers]]></title>
             <link>https://www.mymusictaste.com/news/weekly-tv-top-10-bulgasal-ranks-atop-for-the-first-time-but-sees-mixed-actions-from-viewers-2,3517/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 27 Jan 2022 17:41:22 GMT</pubDate>
             <content:encoded><![CDATA[Seungri, convicted of causing the “Burning Sun Scandal,” admitted to his criminal charges during the appeal hearing. And the military court reduced the singer’s sentence by half in the final]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/201292088_1280-600x400.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT Dream Reportedly Plans on Dropping Their New Album in March]]></title>
-            <link>https://www.mymusictaste.com/news/nct-dream-reportedly-plan-on-dropping-their-new-album-in-march,3498/</link>
-            <guid>https://www.mymusictaste.com/news/nct-dream-reportedly-plan-on-dropping-their-new-album-in-march,3498/</guid>
-            <pubDate>Thu, 27 Jan 2022 17:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[NCT Dream, who recently won the “triple million seller” title, is returning to the K-pop scene. According to NoCut News, NCT Dream is currently working on a new album with]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/ef27a265841b03fb9e784b8edcf06cb9155e80477684dc24122a771d212a835a9f5c6959c493eae4a01e547c9d4a04def1cbddad54a8aaaf21fddcda2db61d16077c16f7f572f9bc7b112548d06e8b04e82076994063f7237a68d395cb8b9c4a-crop-600x400.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
