@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 05:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 17:39:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,20 +328,20 @@
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/201292088_1280-600x400.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[ATEEZ WORLD TOUR THE FELLOWSHIP: BEGINNING OF THE END IN USA (MyMusicTaste ─ Events)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</guid>
-            <pubDate>Sun, 30 Jan 2022 05:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[<header class="sc-1sxlxw0-3 sc-1y7b7pa-16 gFVYBC leRxIM"><h3 class="sc-1sxlxw0-4 sc-1y7b7pa-9 kfJLAM ijmVUi">ATEEZ WORLD TOUR THE FELLOWSHIP: BEGINNING OF THE END IN USA</h3><p class="sc-1sxlxw0-5 sc-1y7b7pa-12 ffZpFc btEoHQ">1/18/2022 - 1/30/2022</p></header><div class="sc-1y7b7pa-11 gmhJdT"><p class="sc-1sxlxw0-6 sc-1y7b7pa-13 jPAaEf dIHwFh"></p><p class="sc-1sxlxw0-6 sc-1y7b7pa-14 jPAaEf gCDQLo">North America</p></div><p class="sc-1sxlxw0-6 sc-1y7b7pa-15 jPAaEf haNrFJ">에이티즈 (ATEEZ)</p>]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/event/img/tour/440x616/4179f6a86fc911ec967a0a58a9feac02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[ATEEZ WORLD TOUR THE FELLOWSHIP : BEGINNING OF THE END IN EUROPE (MyMusicTaste ─ Events)]]></title>
             <link>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</guid>
-            <pubDate>Sun, 30 Jan 2022 05:38:08 GMT</pubDate>
+            <pubDate>Sun, 30 Jan 2022 17:39:36 GMT</pubDate>
             <content:encoded><![CDATA[<header class="sc-1sxlxw0-3 sc-1y7b7pa-16 gFVYBC leRxIM"><h3 class="sc-1sxlxw0-4 sc-1y7b7pa-9 kfJLAM ijmVUi">ATEEZ WORLD TOUR THE FELLOWSHIP : BEGINNING OF THE END IN EUROPE</h3><p class="sc-1sxlxw0-5 sc-1y7b7pa-12 ffZpFc btEoHQ">3/29/2020 - 3/1/2022</p></header><div class="sc-1y7b7pa-11 gmhJdT"><p class="sc-1sxlxw0-6 sc-1y7b7pa-13 jPAaEf dIHwFh"></p><p class="sc-1sxlxw0-6 sc-1y7b7pa-14 jPAaEf gCDQLo">Europe</p></div><p class="sc-1sxlxw0-6 sc-1y7b7pa-15 jPAaEf haNrFJ">에이티즈 (ATEEZ)</p>]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/event/img/tour/440x616/62acbb4c6fc811ecb2e80a58a9feac02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ATEEZ WORLD TOUR THE FELLOWSHIP: BEGINNING OF THE END IN USA (MyMusicTaste ─ Events)]]></title>
+            <link>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</link>
+            <guid>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</guid>
+            <pubDate>Sun, 30 Jan 2022 17:39:36 GMT</pubDate>
+            <content:encoded><![CDATA[<header class="sc-1sxlxw0-3 sc-1y7b7pa-16 gFVYBC leRxIM"><h3 class="sc-1sxlxw0-4 sc-1y7b7pa-9 kfJLAM ijmVUi">ATEEZ WORLD TOUR THE FELLOWSHIP: BEGINNING OF THE END IN USA</h3><p class="sc-1sxlxw0-5 sc-1y7b7pa-12 ffZpFc btEoHQ">1/18/2022 - 1/30/2022</p></header><div class="sc-1y7b7pa-11 gmhJdT"><p class="sc-1sxlxw0-6 sc-1y7b7pa-13 jPAaEf dIHwFh"></p><p class="sc-1sxlxw0-6 sc-1y7b7pa-14 jPAaEf gCDQLo">North America</p></div><p class="sc-1sxlxw0-6 sc-1y7b7pa-15 jPAaEf haNrFJ">에이티즈 (ATEEZ)</p>]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/event/img/tour/440x616/4179f6a86fc911ec967a0a58a9feac02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Apink (MyMusicTaste ─ Shop)]]></title>
@@ -350,14 +350,6 @@
             <pubDate>Thu, 27 Jan 2022 05:38:24 GMT</pubDate>
             <content:encoded><![CDATA[VIDEO CALL EVENT WITH APINK]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/0ca903ac7f1811ecb9080a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PENTAGON (MyMusicTaste ─ Shop)]]></title>
-            <link>https://www.mymusictaste.com/project/595acb8a7ce911ecb6780a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/595acb8a7ce911ecb6780a58a9feac02/</guid>
-            <pubDate>Wed, 26 Jan 2022 05:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[12th Mini Album [IN:VITE U] Online Fansign Event]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/908db7347dba11ec86ab0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[원어스 (ONEUS) (MyMusicTaste ─ Shop)]]></title>
