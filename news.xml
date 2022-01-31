@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 05:38:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 17:39:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Na In Woo Makes His First Appearance on ‘2 Days & 1 Night’ Trailer]]></title>
+            <link>https://www.mymusictaste.com/news/na-in-woo-makes-his-first-appearance-on-2-days-1-night-trailer,3522/</link>
+            <guid>https://www.mymusictaste.com/news/na-in-woo-makes-his-first-appearance-on-2-days-1-night-trailer,3522/</guid>
+            <pubDate>Mon, 31 Jan 2022 17:39:27 GMT</pubDate>
+            <content:encoded><![CDATA[Na In Woo’s appearance on 2 Days &amp; 1 Night was teased in the recently-released preview. On January 30th, the show showed a glimpse of Na In Woo’s arrival as]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/img-crop-tile-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘Snowdrop’ Ends with Disappointing Ratings]]></title>
             <link>https://www.mymusictaste.com/news/snowdrop-ends-with-disappointing-ratings,3521/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 27 Jan 2022 17:41:22 GMT</pubDate>
             <content:encoded><![CDATA[SF9’s Chanhee and Hwiyoung were indicted for violating COVID-19 restrictions. In response, FNC Entertainment has issued a public apology on behalf of their artists. Reports say the police found the]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/beed3d2c-c0f3-4378-a46b-dd21938cd576-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC Shares Behind the Scenes Look at Jung Hae In and Jisoo’s ‘Snowdrop’]]></title>
-            <link>https://www.mymusictaste.com/news/jtbc-shares-behind-the-scenes-look-at-jung-hae-in-and-jisoos-snowdrop,3502/</link>
-            <guid>https://www.mymusictaste.com/news/jtbc-shares-behind-the-scenes-look-at-jung-hae-in-and-jisoos-snowdrop,3502/</guid>
-            <pubDate>Thu, 27 Jan 2022 17:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[JTBC’s Snowdrop&nbsp;has revealed the behind-the-scenes pictures from the shoot. The stills share glimpses of the actors preparing for their roles in various ways. In one of the photos,&nbsp;Jung Hae In&nbsp;and&nbsp;Jisoo&nbsp;are]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/still-e1643269321306-549x400.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

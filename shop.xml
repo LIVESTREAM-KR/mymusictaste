@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 05:38:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 17:39:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ONEUS]]></title>
+            <link>https://www.mymusictaste.com/project/93171e7a7ff611ecb79b0a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/93171e7a7ff611ecb79b0a58a9feac02/</guid>
+            <pubDate>Mon, 31 Jan 2022 17:39:43 GMT</pubDate>
+            <content:encoded><![CDATA[6TH MINI ALBUM 'BLOOD MOON' ONLINE LUCKY DRAW EVENT]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/27da5d7a7ff611ecbd210a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Apink]]></title>
             <link>https://www.mymusictaste.com/project/58f3dcb47f1811ecb25e0a58a9feac02/</link>
@@ -62,22 +70,6 @@
             <pubDate>Fri, 24 Dec 2021 05:40:19 GMT</pubDate>
             <content:encoded><![CDATA[OFFICIAL LIGHT STICK + LIGHT STICK CASE]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/34b35c10f99011eb95ea0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[MMT]]></title>
-            <link>https://www.mymusictaste.com/project/114a03d45bb911ec838d0a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/114a03d45bb911ec838d0a58a9feac02/</guid>
-            <pubDate>Fri, 17 Dec 2021 05:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[MYMUSICTASTE HOLIDAY SEASON SALE]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/9f7cc4f65d4a11ec8bc70a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[MMT]]></title>
-            <link>https://www.mymusictaste.com/project/c9ef8d065bb811eca8780a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/c9ef8d065bb811eca8780a58a9feac02/</guid>
-            <pubDate>Fri, 17 Dec 2021 05:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[MYMUSICTASTE HOLIDAY SEASON SALE]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/88fc88be5d4911ecbf380a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
