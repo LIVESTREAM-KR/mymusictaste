@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 17:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 05:38:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/97c9276c5beb11eb85260a58a9feac2a.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[[Curated Playlist] 5 Best Live Covers by K-pop Idol Groups (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/curated-playlist-5-best-live-covers-by-k-pop-idol-groups,3523/</link>
+            <guid>https://www.mymusictaste.com/news/curated-playlist-5-best-live-covers-by-k-pop-idol-groups,3523/</guid>
+            <pubDate>Tue, 01 Feb 2022 05:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[Edited by Yoon Translated by Changhyun Kim One of the most popular content that K-pop fans love to watch is the cover performances of their favorite idol groups. Artists usually]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/capture-20220127-151946-600x400.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Na In Woo Makes His First Appearance on ‘2 Days & 1 Night’ Trailer (MyMusicTaste ─ News)]]></title>
             <link>https://www.mymusictaste.com/news/na-in-woo-makes-his-first-appearance-on-2-days-1-night-trailer,3522/</link>
             <guid>https://www.mymusictaste.com/news/na-in-woo-makes-his-first-appearance-on-2-days-1-night-trailer,3522/</guid>
@@ -320,18 +328,10 @@
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/271096420_3164813260407934_7483942465432330164_n-600x400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SF9’s Chanhee and Hwiyoung Indicted For Violating COVID-19 Restrictions (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/sf9s-chanhee-and-hwiyoung-indicted-for-violating-covid-19-restrictions,3503/</link>
-            <guid>https://www.mymusictaste.com/news/sf9s-chanhee-and-hwiyoung-indicted-for-violating-covid-19-restrictions,3503/</guid>
-            <pubDate>Thu, 27 Jan 2022 17:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[SF9’s Chanhee and Hwiyoung were indicted for violating COVID-19 restrictions. In response, FNC Entertainment has issued a public apology on behalf of their artists. Reports say the police found the]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/beed3d2c-c0f3-4378-a46b-dd21938cd576-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[ATEEZ WORLD TOUR THE FELLOWSHIP : BEGINNING OF THE END IN EUROPE (MyMusicTaste ─ Events)]]></title>
             <link>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</guid>
-            <pubDate>Mon, 31 Jan 2022 17:39:35 GMT</pubDate>
+            <pubDate>Tue, 01 Feb 2022 05:38:11 GMT</pubDate>
             <content:encoded><![CDATA[<header class="sc-1sxlxw0-3 sc-1y7b7pa-16 gFVYBC leRxIM"><h3 class="sc-1sxlxw0-4 sc-1y7b7pa-9 kfJLAM ijmVUi">ATEEZ WORLD TOUR THE FELLOWSHIP : BEGINNING OF THE END IN EUROPE</h3><p class="sc-1sxlxw0-5 sc-1y7b7pa-12 ffZpFc btEoHQ">3/29/2020 - 3/1/2022</p></header><div class="sc-1y7b7pa-11 gmhJdT"><p class="sc-1sxlxw0-6 sc-1y7b7pa-13 jPAaEf dIHwFh"></p><p class="sc-1sxlxw0-6 sc-1y7b7pa-14 jPAaEf gCDQLo">Europe</p></div><p class="sc-1sxlxw0-6 sc-1y7b7pa-15 jPAaEf haNrFJ">에이티즈 (ATEEZ)</p>]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/event/img/tour/440x616/62acbb4c6fc811ecb2e80a58a9feac02.jpg" length="0" type="image/jpg"/>
         </item>

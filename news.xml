@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 17:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 05:38:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Curated Playlist] 5 Best Live Covers by K-pop Idol Groups]]></title>
+            <link>https://www.mymusictaste.com/news/curated-playlist-5-best-live-covers-by-k-pop-idol-groups,3523/</link>
+            <guid>https://www.mymusictaste.com/news/curated-playlist-5-best-live-covers-by-k-pop-idol-groups,3523/</guid>
+            <pubDate>Tue, 01 Feb 2022 05:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[Edited by Yoon Translated by Changhyun Kim One of the most popular content that K-pop fans love to watch is the cover performances of their favorite idol groups. Artists usually]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/capture-20220127-151946-600x400.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Na In Woo Makes His First Appearance on ‘2 Days & 1 Night’ Trailer]]></title>
             <link>https://www.mymusictaste.com/news/na-in-woo-makes-his-first-appearance-on-2-days-1-night-trailer,3522/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 28 Jan 2022 05:38:20 GMT</pubDate>
             <content:encoded><![CDATA[Edited by Seo Hayne Translated by Esther Lee Jeongjo (Junho) wept as Deok Im (Lee Se Young) passed into the embrace of death, leaving him her last wish to treat]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/271096420_3164813260407934_7483942465432330164_n-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SF9’s Chanhee and Hwiyoung Indicted For Violating COVID-19 Restrictions]]></title>
-            <link>https://www.mymusictaste.com/news/sf9s-chanhee-and-hwiyoung-indicted-for-violating-covid-19-restrictions,3503/</link>
-            <guid>https://www.mymusictaste.com/news/sf9s-chanhee-and-hwiyoung-indicted-for-violating-covid-19-restrictions,3503/</guid>
-            <pubDate>Thu, 27 Jan 2022 17:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[SF9’s Chanhee and Hwiyoung were indicted for violating COVID-19 restrictions. In response, FNC Entertainment has issued a public apology on behalf of their artists. Reports say the police found the]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/01/beed3d2c-c0f3-4378-a46b-dd21938cd576-600x400.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
