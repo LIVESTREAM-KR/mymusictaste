@@ -4,7 +4,7 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 05:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 17:39:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 04 Feb 2022 05:38:17 GMT</pubDate>
             <content:encoded><![CDATA[The 1st Mini Album 'Beam Of Prism' Video Call Event]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/7836ab3884ce11ec87660a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ONEUS]]></title>
-            <link>https://www.mymusictaste.com/project/93171e7a7ff611ecb79b0a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/93171e7a7ff611ecb79b0a58a9feac02/</guid>
-            <pubDate>Mon, 31 Jan 2022 17:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[6TH MINI ALBUM 'BLOOD MOON' ONLINE LUCKY DRAW EVENT]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/27da5d7a7ff611ecbd210a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Apink]]></title>

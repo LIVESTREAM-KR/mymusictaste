@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 05:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 17:39:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -331,7 +331,7 @@
             <title><![CDATA[ATEEZ WORLD TOUR THE FELLOWSHIP : BEGINNING OF THE END IN EUROPE (MyMusicTaste ─ Events)]]></title>
             <link>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/mymusictaste/all.xml</guid>
-            <pubDate>Sun, 06 Feb 2022 05:40:22 GMT</pubDate>
+            <pubDate>Sun, 06 Feb 2022 17:39:25 GMT</pubDate>
             <content:encoded><![CDATA[<header class="sc-1sxlxw0-3 sc-1y7b7pa-16 gFVYBC leRxIM"><h3 class="sc-1sxlxw0-4 sc-1y7b7pa-9 kfJLAM ijmVUi">ATEEZ WORLD TOUR THE FELLOWSHIP : BEGINNING OF THE END IN EUROPE</h3><p class="sc-1sxlxw0-5 sc-1y7b7pa-12 ffZpFc btEoHQ">3/29/2020 - 3/1/2022</p></header><div class="sc-1y7b7pa-11 gmhJdT"><p class="sc-1sxlxw0-6 sc-1y7b7pa-13 jPAaEf dIHwFh"></p><p class="sc-1sxlxw0-6 sc-1y7b7pa-14 jPAaEf gCDQLo">Europe</p></div><p class="sc-1sxlxw0-6 sc-1y7b7pa-15 jPAaEf haNrFJ">에이티즈 (ATEEZ)</p>]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/event/img/tour/440x616/62acbb4c6fc811ecb2e80a58a9feac02.jpg" length="0" type="image/jpg"/>
         </item>
@@ -342,14 +342,6 @@
             <pubDate>Fri, 04 Feb 2022 05:38:17 GMT</pubDate>
             <content:encoded><![CDATA[The 1st Mini Album 'Beam Of Prism' Video Call Event]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/7836ab3884ce11ec87660a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ONEUS (MyMusicTaste ─ Shop)]]></title>
-            <link>https://www.mymusictaste.com/project/93171e7a7ff611ecb79b0a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/93171e7a7ff611ecb79b0a58a9feac02/</guid>
-            <pubDate>Mon, 31 Jan 2022 17:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[6TH MINI ALBUM 'BLOOD MOON' ONLINE LUCKY DRAW EVENT]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/27da5d7a7ff611ecbd210a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Apink (MyMusicTaste ─ Shop)]]></title>
