@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 05:38:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 05:38:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이달의 소녀 (LOOΠΔ) (MyMusicTaste ─ Live)]]></title>
+            <link>https://www.mymusictaste.com/live/96ee2f602b204206920d390017a2b702/</link>
+            <guid>https://www.mymusictaste.com/live/96ee2f602b204206920d390017a2b702/</guid>
+            <pubDate>Wed, 09 Feb 2022 05:37:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022 이달의 소녀 CONCERT [LOONAVERSE : FROM]]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/eb894c54728711ec921c0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[에스파 (aespa) (MyMusicTaste ─ Live)]]></title>
             <link>https://www.mymusictaste.com/live/286f53c4560643ffa1379d7c2f8a0fdc/</link>
@@ -160,15 +168,103 @@
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/64bc21d87c9111eba3890a58a9feac2a.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[KIM MYUNG SOO (MyMusicTaste ─ Live)]]></title>
-            <link>https://www.mymusictaste.com/live/5b5a2c6e08d341f9bc0bb545dff7ee01/</link>
-            <guid>https://www.mymusictaste.com/live/5b5a2c6e08d341f9bc0bb545dff7ee01/</guid>
-            <pubDate>Fri, 26 Nov 2021 18:49:01 GMT</pubDate>
-            <content:encoded><![CDATA[2021 KIM MYUNG SOO Ontact Fan Meeting [Remember US]]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/97c9276c5beb11eb85260a58a9feac2a.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/kang-hoon-in-talks-to-join-someday-or-one-day-remake-alongside-ahn-hyo-seop-and-jeon-yeo-been,3582/</link>
+            <guid>https://www.mymusictaste.com/news/kang-hoon-in-talks-to-join-someday-or-one-day-remake-alongside-ahn-hyo-seop-and-jeon-yeo-been,3582/</guid>
+            <pubDate>Wed, 09 Feb 2022 05:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[The Red Sleeve actor Kang Hoon is in talks to play the lead role in the Korean remake of Someday or One Day. On the 9th, Sports Chosun reported that]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/bb267834-fb37-4ab8-adcc-9e14aadf3c1e-crop-crop-tile-crop-600x400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘All of Us Are Dead’ Director Opens Up About His Plans for the Show’s Second Season (MyMusicTaste ─ News)]]></title>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/a-business-proposal-postpones-its-premiere-date-a-week-due-to-covid-19,3581/</link>
+            <guid>https://www.mymusictaste.com/news/a-business-proposal-postpones-its-premiere-date-a-week-due-to-covid-19,3581/</guid>
+            <pubDate>Wed, 09 Feb 2022 05:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[A Business Proposal has postponed its premiere by one week. On the 9th, A Business Proposal production team announced the postponement of the premiere date. “In order to change the]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/504132_608032_3520-crop-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/dias-chaeyeon-confirmed-to-star-opposite-yook-sungjae-in-the-new-webtoon-adapted-romance-series,3580/</link>
+            <guid>https://www.mymusictaste.com/news/dias-chaeyeon-confirmed-to-star-opposite-yook-sungjae-in-the-new-webtoon-adapted-romance-series,3580/</guid>
+            <pubDate>Wed, 09 Feb 2022 05:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[DIA’s Chaeyeon will star opposite Yook Sungjae in the new romance drama The Golden Spoon (literal title). Based on the webtoon of the same name, The Golden Spoon tells the]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/image__2021_1136604_16395262124884017-crop-tile-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/kim-woo-seok-is-reportedly-making-his-comeback-as-a-singer,3579/</link>
+            <guid>https://www.mymusictaste.com/news/kim-woo-seok-is-reportedly-making-his-comeback-as-a-singer,3579/</guid>
+            <pubDate>Wed, 09 Feb 2022 05:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[Kim Woo Seok has entered the final stage of preparations for his comeback as a singer, according to Sports DongA. This marks his return to the K-pop scene a year]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/06-crop-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/juvenile-justice-heightens-expectations-with-main-poster-and-trailer,3578/</link>
+            <guid>https://www.mymusictaste.com/news/juvenile-justice-heightens-expectations-with-main-poster-and-trailer,3578/</guid>
+            <pubDate>Wed, 09 Feb 2022 05:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[Netflix has unveiled the main poster and main trailer for its upcoming original series ‘Juvenile Justice’. Juvenile Justice depicts the story of a judge who has to balance her aversion]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/Juvenile-Justice-_-Official-Trailer-_-Netflix-0-24-screenshot-600x400.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/how-gong-yoo-and-suzy-reacted-to-choi-woo-shiks-drawings-of-them,3577/</link>
+            <guid>https://www.mymusictaste.com/news/how-gong-yoo-and-suzy-reacted-to-choi-woo-shiks-drawings-of-them,3577/</guid>
+            <pubDate>Wed, 09 Feb 2022 05:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[How did the SOOP actors react to Choi Woo Shik‘s drawings of them? On the 7th, Management SOOP released the “Soop Artists react to profile pictures” video that shows actors]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/3d2a0dfa-a4d4-4eec-81d0-6c88d2416861-600x400.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/bts-rm-leaves-a-supportive-message-for-south-korean-short-tracker-disqualified-during-beijing-olympics,3576/</link>
+            <guid>https://www.mymusictaste.com/news/bts-rm-leaves-a-supportive-message-for-south-korean-short-tracker-disqualified-during-beijing-olympics,3576/</guid>
+            <pubDate>Wed, 09 Feb 2022 05:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[BTS’ RM has posted a supportive Instagram story for South Korean speed skater Hwang Dae Heon who failed to enter the 1,000-meter finals at the 2022 Beijing Winter Olympics. On]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/rm3-horz-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/nam-yoon-soo-is-in-talks-to-join-kim-se-jeong-in-the-korean-remake-of-sleepeeer-hit,3575/</link>
+            <guid>https://www.mymusictaste.com/news/nam-yoon-soo-is-in-talks-to-join-kim-se-jeong-in-the-korean-remake-of-sleepeeer-hit,3575/</guid>
+            <pubDate>Wed, 09 Feb 2022 05:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[Nam Yoon Soo is in talks to lead SBS’ new Monday-Tuesday drama Today’s Webtoon (literal title). On February 8th, an industry insider revealed, “Nam Yoon Soo has been appointed as]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/nam-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/blackpinks-how-you-like-that-dance-performance-video-hits-1-billion-views-for-the-first-time-in-k-pop-history,3574/</link>
+            <guid>https://www.mymusictaste.com/news/blackpinks-how-you-like-that-dance-performance-video-hits-1-billion-views-for-the-first-time-in-k-pop-history,3574/</guid>
+            <pubDate>Wed, 09 Feb 2022 05:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[Blackpink’s “How You Like That” dance performance video has reached 1 billion views on YouTube. This makes it the first dance performance video to achieve such a feat. According to]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/Ee9GIOQXsAUDM3w-crop-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/jang-hang-juns-new-movie-about-basketball-confirms-full-cast-ahn-jae-hong-lee-shin-young-kim-do-wan-and-more,3573/</link>
+            <guid>https://www.mymusictaste.com/news/jang-hang-juns-new-movie-about-basketball-confirms-full-cast-ahn-jae-hong-lee-shin-young-kim-do-wan-and-more,3573/</guid>
+            <pubDate>Wed, 09 Feb 2022 05:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[The new movie Rebound (literal title) has reportedly finalized its full cast. According to OSEN, Jang Hang Jun‘s new movie Rebound has completed its full cast and is currently getting]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/e4cee545-3455-493e-a7f4-f32100cd8177-crop-tile-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/lomon-and-cho-yi-hyun-break-down-their-kiss-in-netflixs-all-of-us-are-dead,3572/</link>
+            <guid>https://www.mymusictaste.com/news/lomon-and-cho-yi-hyun-break-down-their-kiss-in-netflixs-all-of-us-are-dead,3572/</guid>
+            <pubDate>Wed, 09 Feb 2022 05:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[Netflix Korea released a behind-the-scenes video of All of Us Are Dead on its official YouTube channel on February 5th. Park Ji Hu, Yoon Chan Young, Cho Yi Hyun, and]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/aouad-600x400.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/day6s-wonpil-tests-positive-for-covid-19-all-his-promotional-activities-are-cancelled-until-further-notice,3571/</link>
+            <guid>https://www.mymusictaste.com/news/day6s-wonpil-tests-positive-for-covid-19-all-his-promotional-activities-are-cancelled-until-further-notice,3571/</guid>
+            <pubDate>Wed, 09 Feb 2022 05:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[JYP Entertainment made an announcement revealing that DAY6’s Wonpil has tested positive for COVID19. The agency explained that the idol has received his second dose of the COVID-19 vaccine last]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/wonpil2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
             <link>https://www.mymusictaste.com/news/all-of-us-are-dead-director-opens-up-about-his-plans-for-the-shows-second-season,3570/</link>
             <guid>https://www.mymusictaste.com/news/all-of-us-are-dead-director-opens-up-about-his-plans-for-the-shows-second-season,3570/</guid>
             <pubDate>Tue, 08 Feb 2022 05:38:17 GMT</pubDate>
@@ -176,7 +272,7 @@
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/allofusaredead1-600x400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Seohyun and Lee Jun Young Talk About Their New Netflix Movie ‘Love and Leashes’ (MyMusicTaste ─ News)]]></title>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
             <link>https://www.mymusictaste.com/news/seohyun-and-lee-jun-young-talk-about-their-new-netflix-movie-love-and-leashes,3569/</link>
             <guid>https://www.mymusictaste.com/news/seohyun-and-lee-jun-young-talk-about-their-new-netflix-movie-love-and-leashes,3569/</guid>
             <pubDate>Tue, 08 Feb 2022 05:38:17 GMT</pubDate>
@@ -184,7 +280,7 @@
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/6a56e209-0b6a-42e9-a5d1-7886b6a8930d-crop-1-600x400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[IU and Park Seo Joon to Head to Europe to Finish Filming Their Movie ‘Dream’ (MyMusicTaste ─ News)]]></title>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
             <link>https://www.mymusictaste.com/news/iu-and-park-seo-joon-to-head-to-europe-to-finish-filming-their-movie-dream,3568/</link>
             <guid>https://www.mymusictaste.com/news/iu-and-park-seo-joon-to-head-to-europe-to-finish-filming-their-movie-dream,3568/</guid>
             <pubDate>Tue, 08 Feb 2022 05:38:17 GMT</pubDate>
@@ -192,7 +288,7 @@
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/img_20201119161623_103dd6d0-crop-tile-600x400.webp" length="0" type="image/webp"/>
         </item>
         <item>
-            <title><![CDATA[[PICK] Korean Dramas Slated to Premiere in February (MyMusicTaste ─ News)]]></title>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
             <link>https://www.mymusictaste.com/news/pick-korean-dramas-slated-to-premiere-in-february,3567/</link>
             <guid>https://www.mymusictaste.com/news/pick-korean-dramas-slated-to-premiere-in-february,3567/</guid>
             <pubDate>Mon, 07 Feb 2022 17:39:39 GMT</pubDate>
@@ -200,7 +296,7 @@
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/202202-drama_0-600x400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jun Ji Hyun Loses an Endorsement Deal With Outdoor Fashion Brand NEPA (MyMusicTaste ─ News)]]></title>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
             <link>https://www.mymusictaste.com/news/jun-ji-hyun-loses-an-endorsement-deal-with-outdoor-fashion-brand-nepa,3566/</link>
             <guid>https://www.mymusictaste.com/news/jun-ji-hyun-loses-an-endorsement-deal-with-outdoor-fashion-brand-nepa,3566/</guid>
             <pubDate>Mon, 07 Feb 2022 17:39:39 GMT</pubDate>
@@ -208,7 +304,7 @@
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/cover6142cefda1199-600x400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[DAY6’s Wonpil Talks About His Solo Debut with ‘Pilmography’ and His Love for His Team (MyMusicTaste ─ News)]]></title>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
             <link>https://www.mymusictaste.com/news/day6s-wonpil-talks-about-his-solo-debut-with-pilmography-and-his-love-for-his-team,3565/</link>
             <guid>https://www.mymusictaste.com/news/day6s-wonpil-talks-about-his-solo-debut-with-pilmography-and-his-love-for-his-team,3565/</guid>
             <pubDate>Mon, 07 Feb 2022 17:39:39 GMT</pubDate>
@@ -216,7 +312,7 @@
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/FK9b1Y8aIAALtb8-600x400.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Kim Hee Sun Saves Rowoon from Drowning in the Teaser for ‘Tomorrow’ (MyMusicTaste ─ News)]]></title>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
             <link>https://www.mymusictaste.com/news/kim-hee-sun-saves-rowoon-from-drowning-in-the-teaser-for-tomorrow,3564/</link>
             <guid>https://www.mymusictaste.com/news/kim-hee-sun-saves-rowoon-from-drowning-in-the-teaser-for-tomorrow,3564/</guid>
             <pubDate>Mon, 07 Feb 2022 17:39:39 GMT</pubDate>
@@ -224,7 +320,7 @@
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/-%EC%97%86%EC%9D%8C-e1644217879846-600x400.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[‘Bulgasal: Immortal Souls’ Final Episode Recap: Lee Jin Wook and Kwon Nara’s Emotional Farewell (MyMusicTaste ─ News)]]></title>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
             <link>https://www.mymusictaste.com/news/bulgasal-immortal-souls-final-episode-recap-lee-jin-wook-and-kwon-naras-emotional-farewell,3563/</link>
             <guid>https://www.mymusictaste.com/news/bulgasal-immortal-souls-final-episode-recap-lee-jin-wook-and-kwon-naras-emotional-farewell,3563/</guid>
             <pubDate>Mon, 07 Feb 2022 17:39:39 GMT</pubDate>
@@ -232,100 +328,20 @@
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/3-600x400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[TREASURE to Hold Their First-Ever Concert Both Online and Offline (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/treasure-to-hold-their-first-ever-concert-both-online-and-offline,3562/</link>
-            <guid>https://www.mymusictaste.com/news/treasure-to-hold-their-first-ever-concert-both-online-and-offline,3562/</guid>
-            <pubDate>Mon, 07 Feb 2022 17:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[TREASURE will hold their first concert at the Olympic Hall on April 9th and 10th. According to YG Entertainment, TREASURE will put on their first concert at the Olympic Hall.]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/20220203000513_0-crop-600x400.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ATEEZ (MyMusicTaste ─ Shop)]]></title>
+            <link>https://www.mymusictaste.com/project/199fda52896311ecaae00a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/199fda52896311ecaae00a58a9feac02/</guid>
+            <pubDate>Wed, 09 Feb 2022 05:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[1ST PHOTOBOOK ;  ODE TO YOUTH]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/a75acd2e896311ec88890a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[The Owner of the Restaurant that Kim Seon Ho Visited Complains of the Constant Harrying (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/the-owner-of-the-restaurant-that-kim-seon-ho-visited-complains-of-the-constant-harrying,3561/</link>
-            <guid>https://www.mymusictaste.com/news/the-owner-of-the-restaurant-that-kim-seon-ho-visited-complains-of-the-constant-harrying,3561/</guid>
-            <pubDate>Mon, 07 Feb 2022 17:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[The owner of the tteokbokki restaurant that Kim Seon Ho visited complained of the constant harrying of some fans. Recently, the owner took to the shop’s social media account to]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/4a1d17402098cd2d8b05e24dcdd1d3b6-crop-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EXO’s D.O. Transforms into a Piano Genius in the Korean Remake of Taiwanese Romance Movie ‘Secret’ (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/exos-d-o-transforms-into-a-piano-genius-in-the-korean-remake-of-taiwanese-romance-movie-secret,3560/</link>
-            <guid>https://www.mymusictaste.com/news/exos-d-o-transforms-into-a-piano-genius-in-the-korean-remake-of-taiwanese-romance-movie-secret,3560/</guid>
-            <pubDate>Mon, 07 Feb 2022 17:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[The Korean remake of the popular Taiwanese film Secret has wrapped up its production on January 21st. Secret tells the story of a piano prodigy Yoo Jun, who transfers to]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/secret-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS’ Jimin Has Recovered From COVID-19 and Discharged from Hospital After Appendicitis Surgery (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/bts-jimin-has-recovered-from-covid-19-and-discharged-from-hospital-after-appendicitis-surgery,3559/</link>
-            <guid>https://www.mymusictaste.com/news/bts-jimin-has-recovered-from-covid-19-and-discharged-from-hospital-after-appendicitis-surgery,3559/</guid>
-            <pubDate>Mon, 07 Feb 2022 17:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[BTS’ Jimin was discharged from the hospital after his surgery for acute appendicitis. On February 5th, Big Hit Music announced that Jimin was discharged from the hospital after his appendicitis]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/jimin2-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘All of Us Are Dead’ Star Yoo In Soo May Be the Next Jung Ho Yeon (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/all-of-us-are-dead-star-yoo-in-soo-may-be-the-next-jung-ho-yeon,3558/</link>
-            <guid>https://www.mymusictaste.com/news/all-of-us-are-dead-star-yoo-in-soo-may-be-the-next-jung-ho-yeon,3558/</guid>
-            <pubDate>Mon, 07 Feb 2022 05:38:03 GMT</pubDate>
-            <content:encoded><![CDATA[Yoo In Soo has found his stardom on the small screen as a deadly semi-zombie, Yoon Gwi Nam, in the popular Netflix Original series, All of Us Are Dead.&nbsp;In&nbsp;less than]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Park Hyung Sik and Han So Hee’s New Disney Plus Drama ‘Soundtrack #1’ Drops Heart-Fluttering Poster and Teaser (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/soundtrack-1-drops-heart-fluttering-poster-and-teaser,3557/</link>
-            <guid>https://www.mymusictaste.com/news/soundtrack-1-drops-heart-fluttering-poster-and-teaser,3557/</guid>
-            <pubDate>Mon, 07 Feb 2022 05:38:03 GMT</pubDate>
-            <content:encoded><![CDATA[Park Hyung Sik and Han So Hee‘s heart-fluttering romance will unfold in Soundtrack #1. Soundtrack #1 is a romance music series about a man and woman who have been friends]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/erererer-600x400.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Oh My Girl Confirmed to Make Their Comeback in March (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/oh-my-girl-confirmed-to-make-their-comeback-in-march,3556/</link>
-            <guid>https://www.mymusictaste.com/news/oh-my-girl-confirmed-to-make-their-comeback-in-march,3556/</guid>
-            <pubDate>Mon, 07 Feb 2022 05:38:03 GMT</pubDate>
-            <content:encoded><![CDATA[Oh My Girl is returning to the K-pop scene in March. On the 7th, WM Entertainment confirmed Oh My Girl’s comeback. “Oh My Girl will drop a new album in]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/ohmygirl-nonstop-2020-1392x884-crop-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shin Ye Eun Reportedly Joining Song Hye Kyo’s New Drama ‘The Glory’ (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/shin-ye-eun-reportedly-joining-song-hye-kyos-new-drama-the-glory,3555/</link>
-            <guid>https://www.mymusictaste.com/news/shin-ye-eun-reportedly-joining-song-hye-kyos-new-drama-the-glory,3555/</guid>
-            <pubDate>Mon, 07 Feb 2022 05:38:03 GMT</pubDate>
-            <content:encoded><![CDATA[More Than Friends actress Shin Ye Eun is reportedly joining writer Kim Eun Sook‘s squad. On the 7th, Sports Chosun reported that Shin Ye Eun has joined the production of]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/49719251118_f9f6c2e326_o-crop-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Namkoong Min Offered the Lead Role in JTBC’s New Drama About a Divorce Lawyer (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/namkoong-min-offered-the-lead-role-in-jtbcs-new-drama-about-a-divorce-lawyer,3554/</link>
-            <guid>https://www.mymusictaste.com/news/namkoong-min-offered-the-lead-role-in-jtbcs-new-drama-about-a-divorce-lawyer,3554/</guid>
-            <pubDate>Mon, 07 Feb 2022 05:38:03 GMT</pubDate>
-            <content:encoded><![CDATA[Namkoong Min is in talks to star in the new JTBC drama Sacred Divorce (literal title). According to OSEN, Namkoong Min was cast to play the male lead in Sacred]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/FFBmlq2akAA17NG-crop-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BIGBANG Announces Spring Comeback After a Long Hiatus (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/bigbang-announces-spring-comeback-after-a-long-hiatus,3553/</link>
-            <guid>https://www.mymusictaste.com/news/bigbang-announces-spring-comeback-after-a-long-hiatus,3553/</guid>
-            <pubDate>Mon, 07 Feb 2022 05:38:03 GMT</pubDate>
-            <content:encoded><![CDATA[BIGBANG (G-Dragon, Taeyang, T.O.P, Daesung) will make their long-awaited comeback. On February 7th, YG Entertainment announced, “BIGBANG will be releasing a brand new song this spring. They completed the recordings,]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/bigbang2-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yoo Ah In Says ‘Burning’ Is the Work that Made Him Who He Is Now (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/yoo-ah-in-says-burning-is-the-work-that-made-him-who-he-is-now-2,3552/</link>
-            <guid>https://www.mymusictaste.com/news/yoo-ah-in-says-burning-is-the-work-that-made-him-who-he-is-now-2,3552/</guid>
-            <pubDate>Sat, 05 Feb 2022 05:38:05 GMT</pubDate>
-            <content:encoded><![CDATA[Yoo Ah In is one of the busiest actors in the industry. Despite the COVID-19 situation, he released #ALIVE, Voice of Silence, and Hellbound one after another. And now, he’s]]></content:encoded>
-            <enclosure url="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIiB2aWV3Qm94PSIwIDAgMzAwIDMwMCI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGZpbGw9IiNGNUY1RjUiIGQ9Ik0wIDBoMzAwdjMwMEgweiIvPgogICAgICAgIDxwYXRoIGZpbGw9IiNFNUU1RTUiIGQ9Ik0xODAuNjI1IDE1Ni4wNHYtNDQuNzQyYzAtLjYxNy0uNTU5LTEuMTczLTEuMTgtMS4xNzNoLS44MDdsLTguMjcyIDQuMDczLTMxLjI2IDE1LjU3LS45MTMuNDdjLS4xNzEuMDktMS4wMzIuNTktMS4wMzIgMS4yMDd2MzIuNjI4YTEzLjAxOCAxMy4wMTggMCAwIDAtMy43MDUtLjUzNyAxMi43NzcgMTIuNzc3IDAgMCAwLTEyLjgzMSAxMi44M2MwIDcuMTA4IDUuNjgzIDEyLjc1OSAxMi44MzEgMTIuNzU5IDcuMTQ5IDAgMTIuODY3LTUuNjUxIDEyLjg2Ny0xMi43NTkgMC0uMzA0LS4wMTQtLjYwNS0uMDM1LS45MDN2LTM4LjQ3NmwyNS4wODUtMTIuOTA5aC4xMjV2MTkuNjc5YTEzLjAxNCAxMy4wMTQgMCAwIDAtMy43NC0uNTQ2IDEyLjc3NyAxMi43NzcgMCAwIDAtMTIuODMxIDEyLjgzYzAgNy4xMDcgNS42ODMgMTIuNzU4IDEyLjgzIDEyLjc1OCA3LjA4MyAwIDEyLjc1OS01LjU0OCAxMi44NjMtMTIuNTYzLjAwMy0uMDI5LjAwNS0uMDU4LjAwNS0uMDg3di0uMTA4eiIvPgogICAgPC9nPgo8L3N2Zz4K" length="0" type="image/image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIiB2aWV3Qm94PSIwIDAgMzAwIDMwMCI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGZpbGw9IiNGNUY1RjUiIGQ9Ik0wIDBoMzAwdjMwMEgweiIvPgogICAgICAgIDxwYXRoIGZpbGw9IiNFNUU1RTUiIGQ9Ik0xODAuNjI1IDE1Ni4wNHYtNDQuNzQyYzAtLjYxNy0uNTU5LTEuMTczLTEuMTgtMS4xNzNoLS44MDdsLTguMjcyIDQuMDczLTMxLjI2IDE1LjU3LS45MTMuNDdjLS4xNzEuMDktMS4wMzIuNTktMS4wMzIgMS4yMDd2MzIuNjI4YTEzLjAxOCAxMy4wMTggMCAwIDAtMy43MDUtLjUzNyAxMi43NzcgMTIuNzc3IDAgMCAwLTEyLjgzMSAxMi44M2MwIDcuMTA4IDUuNjgzIDEyLjc1OSAxMi44MzEgMTIuNzU5IDcuMTQ5IDAgMTIuODY3LTUuNjUxIDEyLjg2Ny0xMi43NTkgMC0uMzA0LS4wMTQtLjYwNS0uMDM1LS45MDN2LTM4LjQ3NmwyNS4wODUtMTIuOTA5aC4xMjV2MTkuNjc5YTEzLjAxNCAxMy4wMTQgMCAwIDAtMy43NC0uNTQ2IDEyLjc3NyAxMi43NzcgMCAwIDAtMTIuODMxIDEyLjgzYzAgNy4xMDcgNS42ODMgMTIuNzU4IDEyLjgzIDEyLjc1OCA3LjA4MyAwIDEyLjc1OS01LjU0OCAxMi44NjMtMTIuNTYzLjAwMy0uMDI5LjAwNS0uMDU4LjAwNS0uMDg3di0uMTA4eiIvPgogICAgPC9nPgo8L3N2Zz4K"/>
-        </item>
-        <item>
-            <title><![CDATA[Wi Ha Joon Says ‘Squid Game’ Gave Him a Confidence Boost (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/wi-ha-joon-says-squid-game-became-his-confidence-boost,3551/</link>
-            <guid>https://www.mymusictaste.com/news/wi-ha-joon-says-squid-game-became-his-confidence-boost,3551/</guid>
-            <pubDate>Fri, 04 Feb 2022 17:38:33 GMT</pubDate>
-            <content:encoded><![CDATA[Squid Game star Wi Ha Joon charmed his fans with his “craziness” in Bad and Crazy. Wi Ha Joon talked about finishing tvN drama Bad and Crazy. “I have lots]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/143fd8d6-a7f0-443f-83bb-64d6ff006ee4-crop-600x400.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[WONPIL (MyMusicTaste ─ Shop)]]></title>
+            <link>https://www.mymusictaste.com/project/6d7d587a88a011ec800a0a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/6d7d587a88a011ec800a0a58a9feac02/</guid>
+            <pubDate>Wed, 09 Feb 2022 05:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[1st Album 〈Pilmography〉 Video Call Event]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/44457714894511ec8fa40a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[VIVIZ (MyMusicTaste ─ Shop)]]></title>
@@ -374,14 +390,6 @@
             <pubDate>Fri, 24 Dec 2021 05:40:19 GMT</pubDate>
             <content:encoded><![CDATA[2022 WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] OFFICIAL MD]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/a9a30800621911ecbf260a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATEEZ (MyMusicTaste ─ Shop)]]></title>
-            <link>https://www.mymusictaste.com/project/6b089f90620111eca1a00a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/6b089f90620111eca1a00a58a9feac02/</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022 WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] OFFICIAL MD]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/460f9d90620111ec885c0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[ATEEZ (MyMusicTaste ─ Shop)]]></title>

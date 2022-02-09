@@ -4,9 +4,25 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 05:38:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 05:38:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ATEEZ]]></title>
+            <link>https://www.mymusictaste.com/project/199fda52896311ecaae00a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/199fda52896311ecaae00a58a9feac02/</guid>
+            <pubDate>Wed, 09 Feb 2022 05:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[1ST PHOTOBOOK ;  ODE TO YOUTH]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/a75acd2e896311ec88890a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[WONPIL]]></title>
+            <link>https://www.mymusictaste.com/project/6d7d587a88a011ec800a0a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/6d7d587a88a011ec800a0a58a9feac02/</guid>
+            <pubDate>Wed, 09 Feb 2022 05:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[1st Album 〈Pilmography〉 Video Call Event]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/44457714894511ec8fa40a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[VIVIZ]]></title>
             <link>https://www.mymusictaste.com/project/f84e40f484ce11ec9cbc0a58a9feac02/</link>
@@ -54,14 +70,6 @@
             <pubDate>Fri, 24 Dec 2021 05:40:19 GMT</pubDate>
             <content:encoded><![CDATA[2022 WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] OFFICIAL MD]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/a9a30800621911ecbf260a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATEEZ]]></title>
-            <link>https://www.mymusictaste.com/project/6b089f90620111eca1a00a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/6b089f90620111eca1a00a58a9feac02/</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022 WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] OFFICIAL MD]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/460f9d90620111ec885c0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[ATEEZ]]></title>
