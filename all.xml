@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 05:38:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 05:38:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
         </item>
         <item>
             <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/curated-playlist-songs-that-dominated-music-charts-the-longest,3614/</link>
+            <guid>https://www.mymusictaste.com/news/curated-playlist-songs-that-dominated-music-charts-the-longest,3614/</guid>
+            <pubDate>Sun, 13 Feb 2022 05:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[Edited by Yoon Translated by Esther Lee Unlike in the past, when an album’s physical sales determined its success, a song’s triumph in the current music market is now determined]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/20220209-deepdive-music_0-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
             <link>https://www.mymusictaste.com/news/weekly-tv-top-10-bulgasal-finishes-at-no-1-despite-the-mixed-reviews,3613/</link>
             <guid>https://www.mymusictaste.com/news/weekly-tv-top-10-bulgasal-finishes-at-no-1-despite-the-mixed-reviews,3613/</guid>
             <pubDate>Sat, 12 Feb 2022 05:38:12 GMT</pubDate>
@@ -320,14 +328,6 @@
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/Screen-Shot-2022-02-10-at-2.08.40-PM-tile-600x400.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/lee-da-hee-is-the-candidate-for-the-female-lead-in-the-new-rom-com-series-starring-choi-siwon,3594/</link>
-            <guid>https://www.mymusictaste.com/news/lee-da-hee-is-the-candidate-for-the-female-lead-in-the-new-rom-com-series-starring-choi-siwon,3594/</guid>
-            <pubDate>Thu, 10 Feb 2022 05:38:06 GMT</pubDate>
-            <content:encoded><![CDATA[Lee Da Hee has been asked to join the production of Love That Will Freeze To Death (literal title). According to YTN Star, Lee Da Hee became the candidate for]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/23-crop-tile-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[WONHO (MyMusicTaste ─ Shop)]]></title>
             <link>https://www.mymusictaste.com/project/13a0f06e894611ecafd60a58a9feac02/</link>
             <guid>https://www.mymusictaste.com/project/13a0f06e894611ecafd60a58a9feac02/</guid>
@@ -342,14 +342,6 @@
             <pubDate>Wed, 09 Feb 2022 05:38:17 GMT</pubDate>
             <content:encoded><![CDATA[1ST PHOTOBOOK ;  ODE TO YOUTH]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/a75acd2e896311ec88890a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[WONPIL (MyMusicTaste ─ Shop)]]></title>
-            <link>https://www.mymusictaste.com/project/6d7d587a88a011ec800a0a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/6d7d587a88a011ec800a0a58a9feac02/</guid>
-            <pubDate>Wed, 09 Feb 2022 05:38:17 GMT</pubDate>
-            <content:encoded><![CDATA[1st Album 〈Pilmography〉 Video Call Event]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/44457714894511ec8fa40a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Apink (MyMusicTaste ─ Shop)]]></title>
