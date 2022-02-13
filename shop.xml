@@ -4,7 +4,7 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 05:38:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 17:38:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Wed, 09 Feb 2022 05:38:17 GMT</pubDate>
             <content:encoded><![CDATA[1ST PHOTOBOOK ;  ODE TO YOUTH]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/a75acd2e896311ec88890a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Apink]]></title>
-            <link>https://www.mymusictaste.com/project/58f3dcb47f1811ecb25e0a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/58f3dcb47f1811ecb25e0a58a9feac02/</guid>
-            <pubDate>Thu, 27 Jan 2022 05:38:24 GMT</pubDate>
-            <content:encoded><![CDATA[VIDEO CALL EVENT WITH APINK]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/0ca903ac7f1811ecb9080a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[원어스 (ONEUS)]]></title>
