@@ -4,7 +4,7 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 05:38:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 17:40:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Tue, 25 Jan 2022 05:38:24 GMT</pubDate>
             <content:encoded><![CDATA[BLOOD MOON event]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/e53fe67e7c5811ec8bf00a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[이달의 소녀 (LOOΠΔ)]]></title>
-            <link>https://www.mymusictaste.com/project/b46c59e875e811eca1130a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/b46c59e875e811eca1130a58a9feac02/</guid>
-            <pubDate>Wed, 19 Jan 2022 05:38:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022 이달의 소녀 CONCERT [LOONAVERSE : FROM] - Individual MD]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/8ef6c4f0778111eca4990a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[이달의 소녀 (LOOΠΔ)]]></title>
