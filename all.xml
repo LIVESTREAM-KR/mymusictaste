@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 17:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 05:40:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,22 @@
         </item>
         <item>
             <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/choi-min-sik-says-his-new-movie-in-our-prime-reminded-him-of-good-will-hunting,3630/</link>
+            <guid>https://www.mymusictaste.com/news/choi-min-sik-says-his-new-movie-in-our-prime-reminded-him-of-good-will-hunting,3630/</guid>
+            <pubDate>Tue, 15 Feb 2022 05:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[In Our Prime held an online press conference on the morning of the 15th. Actors Choi Min Sik, Kim Dong Hwi, Park Byung Eun, Park Hae Joon, Jo Yoon Seo,]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/273551875_4946555138754890_7506256875204002841_n-crop-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/treasure-shows-deep-satisfaction-for-their-new-smash-the-second-step-chapter-one,3629/</link>
+            <guid>https://www.mymusictaste.com/news/treasure-shows-deep-satisfaction-for-their-new-smash-the-second-step-chapter-one,3629/</guid>
+            <pubDate>Tue, 15 Feb 2022 05:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[TREASURE is all ready for their comeback after a whole year with THE SECOND STEP: CHAPTER ONE. On the 15th, TREASURE held an online press conference for their comeback and]]></content:encoded>
+            <enclosure url="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIiB2aWV3Qm94PSIwIDAgMzAwIDMwMCI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGZpbGw9IiNGNUY1RjUiIGQ9Ik0wIDBoMzAwdjMwMEgweiIvPgogICAgICAgIDxwYXRoIGZpbGw9IiNFNUU1RTUiIGQ9Ik0xODAuNjI1IDE1Ni4wNHYtNDQuNzQyYzAtLjYxNy0uNTU5LTEuMTczLTEuMTgtMS4xNzNoLS44MDdsLTguMjcyIDQuMDczLTMxLjI2IDE1LjU3LS45MTMuNDdjLS4xNzEuMDktMS4wMzIuNTktMS4wMzIgMS4yMDd2MzIuNjI4YTEzLjAxOCAxMy4wMTggMCAwIDAtMy43MDUtLjUzNyAxMi43NzcgMTIuNzc3IDAgMCAwLTEyLjgzMSAxMi44M2MwIDcuMTA4IDUuNjgzIDEyLjc1OSAxMi44MzEgMTIuNzU5IDcuMTQ5IDAgMTIuODY3LTUuNjUxIDEyLjg2Ny0xMi43NTkgMC0uMzA0LS4wMTQtLjYwNS0uMDM1LS45MDN2LTM4LjQ3NmwyNS4wODUtMTIuOTA5aC4xMjV2MTkuNjc5YTEzLjAxNCAxMy4wMTQgMCAwIDAtMy43NC0uNTQ2IDEyLjc3NyAxMi43NzcgMCAwIDAtMTIuODMxIDEyLjgzYzAgNy4xMDcgNS42ODMgMTIuNzU4IDEyLjgzIDEyLjc1OCA3LjA4MyAwIDEyLjc1OS01LjU0OCAxMi44NjMtMTIuNTYzLjAwMy0uMDI5LjAwNS0uMDU4LjAwNS0uMDg3di0uMTA4eiIvPgogICAgPC9nPgo8L3N2Zz4K" length="0" type="image/image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIiB2aWV3Qm94PSIwIDAgMzAwIDMwMCI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGZpbGw9IiNGNUY1RjUiIGQ9Ik0wIDBoMzAwdjMwMEgweiIvPgogICAgICAgIDxwYXRoIGZpbGw9IiNFNUU1RTUiIGQ9Ik0xODAuNjI1IDE1Ni4wNHYtNDQuNzQyYzAtLjYxNy0uNTU5LTEuMTczLTEuMTgtMS4xNzNoLS44MDdsLTguMjcyIDQuMDczLTMxLjI2IDE1LjU3LS45MTMuNDdjLS4xNzEuMDktMS4wMzIuNTktMS4wMzIgMS4yMDd2MzIuNjI4YTEzLjAxOCAxMy4wMTggMCAwIDAtMy43MDUtLjUzNyAxMi43NzcgMTIuNzc3IDAgMCAwLTEyLjgzMSAxMi44M2MwIDcuMTA4IDUuNjgzIDEyLjc1OSAxMi44MzEgMTIuNzU5IDcuMTQ5IDAgMTIuODY3LTUuNjUxIDEyLjg2Ny0xMi43NTkgMC0uMzA0LS4wMTQtLjYwNS0uMDM1LS45MDN2LTM4LjQ3NmwyNS4wODUtMTIuOTA5aC4xMjV2MTkuNjc5YTEzLjAxNCAxMy4wMTQgMCAwIDAtMy43NC0uNTQ2IDEyLjc3NyAxMi43NzcgMCAwIDAtMTIuODMxIDEyLjgzYzAgNy4xMDcgNS42ODMgMTIuNzU4IDEyLjgzIDEyLjc1OCA3LjA4MyAwIDEyLjc1OS01LjU0OCAxMi44NjMtMTIuNTYzLjAwMy0uMDI5LjAwNS0uMDU4LjAwNS0uMDg3di0uMTA4eiIvPgogICAgPC9nPgo8L3N2Zz4K"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
             <link>https://www.mymusictaste.com/news/pick-who-played-the-students-of-hyosan-high-school-in-all-of-us-are-dead,3628/</link>
             <guid>https://www.mymusictaste.com/news/pick-who-played-the-students-of-hyosan-high-school-in-all-of-us-are-dead,3628/</guid>
             <pubDate>Mon, 14 Feb 2022 17:40:31 GMT</pubDate>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 11 Feb 2022 17:38:57 GMT</pubDate>
             <content:encoded><![CDATA[Kim Jong Kook has tested positive for COVID-19. On February 10th, Turbo JK Company announced, “Yesterday, Kim Jong Kook felt mild symptoms of a cold and took a self covid]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/kimjongkook-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/tang-wei-denies-divorce-rumors-with-her-husband-kim-tae-yong,3610/</link>
-            <guid>https://www.mymusictaste.com/news/tang-wei-denies-divorce-rumors-with-her-husband-kim-tae-yong,3610/</guid>
-            <pubDate>Fri, 11 Feb 2022 17:38:57 GMT</pubDate>
-            <content:encoded><![CDATA[Tang Wei immediately denied rumors of discord with her husband, director Kim Tae Yong. On February 10th, a popular Chinese media outlet reported that Tang Wei and Kim Tae Yong]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/3a3cb8b893bedd333e6d38b6b2bced79-e1644563883829-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/how-much-is-hyun-bin-and-son-ye-jins-honeymoon-house-worth-report-says-its-over-4-million,3609/</link>
-            <guid>https://www.mymusictaste.com/news/how-much-is-hyun-bin-and-son-ye-jins-honeymoon-house-worth-report-says-its-over-4-million,3609/</guid>
-            <pubDate>Fri, 11 Feb 2022 17:38:57 GMT</pubDate>
-            <content:encoded><![CDATA[After announcing their marriage, Hyun Bin and Son Ye Jin garnered attention with their enormous real estate holdings. Last November, channel iHQ’s Secret Newsroom revealed the total value of Hyun]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/image_readtop_2021_145705_16132908514540298-600x347.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WONHO (MyMusicTaste ─ Shop)]]></title>
