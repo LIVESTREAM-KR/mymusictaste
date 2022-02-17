@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 17:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 05:38:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
         </item>
         <item>
             <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/k-drama-review-ghost-doctor-two-reasons-we-cant-help-but-fall-for-this-medical-possessing-bromance,3651/</link>
+            <guid>https://www.mymusictaste.com/news/k-drama-review-ghost-doctor-two-reasons-we-cant-help-but-fall-for-this-medical-possessing-bromance,3651/</guid>
+            <pubDate>Thu, 17 Feb 2022 05:38:08 GMT</pubDate>
+            <content:encoded><![CDATA[Edited by Hwang Hong Sun Translated by Kim Hoyeun What if a doctor possessed by a ghost performs operations? This theme, which we can’t even think of in reality, has]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/Ghost-Doctor-review-00-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
             <link>https://www.mymusictaste.com/news/lee-ji-hoons-absence-from-the-press-conference-for-sponsor-raises-questions-among-fans,3650/</link>
             <guid>https://www.mymusictaste.com/news/lee-ji-hoons-absence-from-the-press-conference-for-sponsor-raises-questions-among-fans,3650/</guid>
             <pubDate>Wed, 16 Feb 2022 17:39:51 GMT</pubDate>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 15 Feb 2022 17:39:28 GMT</pubDate>
             <content:encoded><![CDATA[Hyun Bin and Son Ye Jin‘s on-screen romance has found&nbsp;its way into real life as the couple recently made their wedding announcement. YouTuber and former reporter Lee Jin Ho shared]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/DSC03976e-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/taeyeon-says-that-her-sm-staff-gave-low-score-for-invu-and-talks-about-hosting-queendom-2,3631/</link>
-            <guid>https://www.mymusictaste.com/news/taeyeon-says-that-her-sm-staff-gave-low-score-for-invu-and-talks-about-hosting-queendom-2,3631/</guid>
-            <pubDate>Tue, 15 Feb 2022 17:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[Taeyeon showed her love for her new album INVU and commented about being an emcee for the new survival show Queendom 2. On the 15th, Taeyeon guest appeared on MBC’s]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/FLPTz0FVcAY7YnW-crop-600x400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WONPIL (MyMusicTaste ─ Shop)]]></title>
