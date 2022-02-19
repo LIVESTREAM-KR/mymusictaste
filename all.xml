@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 17:40:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 05:38:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
         </item>
         <item>
             <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/controversy-over-love-and-leashes-for-its-bdsm-love-story,3673/</link>
+            <guid>https://www.mymusictaste.com/news/controversy-over-love-and-leashes-for-its-bdsm-love-story,3673/</guid>
+            <pubDate>Sat, 19 Feb 2022 05:38:09 GMT</pubDate>
+            <content:encoded><![CDATA[The movie Love and Leashes, released on Netflix last week, tells a love story with BDSM. BDSM refers to those with the sexual orientation of being restrained and controlled, such]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/still_05-1-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
             <link>https://www.mymusictaste.com/news/penthouse-stars-confirmed-to-star-in-director-joo-dong-mins-first-short-film-um-ki-joon-lee-ji-ah-kim-so-yeon-and-more,3672/</link>
             <guid>https://www.mymusictaste.com/news/penthouse-stars-confirmed-to-star-in-director-joo-dong-mins-first-short-film-um-ki-joon-lee-ji-ah-kim-so-yeon-and-more,3672/</guid>
             <pubDate>Fri, 18 Feb 2022 17:39:41 GMT</pubDate>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 17 Feb 2022 17:39:51 GMT</pubDate>
             <content:encoded><![CDATA[Park Min Young is in talks to appear in the new drama Mon, Wed, Fri, Tue, Thu, Sat (literal title). On the 17th, the actress’s agency Hook Entertainment shared that]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/83873_60819_2814-crop-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/kang-ha-neul-to-play-obscure-actor-in-the-new-kbs-series-that-son-ye-jin-and-youn-yuh-jung-are-in-talks-for,3653/</link>
-            <guid>https://www.mymusictaste.com/news/kang-ha-neul-to-play-obscure-actor-in-the-new-kbs-series-that-son-ye-jin-and-youn-yuh-jung-are-in-talks-for,3653/</guid>
-            <pubDate>Thu, 17 Feb 2022 17:39:51 GMT</pubDate>
-            <content:encoded><![CDATA[Kang Ha Neul has officially joined the new KBS drama A Tree Dies Standing Up (literal title). A Tree Dies Standing Up tells the story of a theater actor who]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/image_readtop_2022_69058_16429752624923708-crop-tile-600x400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cherry Bullet (MyMusicTaste ─ Shop)]]></title>
