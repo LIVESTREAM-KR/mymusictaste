@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 05:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 17:40:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MOONBIN&SANHA]]></title>
+            <link>https://www.mymusictaste.com/project/c244ea8092e711ecb9d70a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/c244ea8092e711ecb9d70a58a9feac02/</guid>
+            <pubDate>Tue, 22 Feb 2022 17:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[(ASTRO) 2nd Mini Album 'REFUGE' VIDEO CALL EVENT]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/32ad5a6c937811ec90d00a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[STAYC]]></title>
             <link>https://www.mymusictaste.com/project/fbaf0a0a91fa11ec84a60a58a9feac02/</link>
