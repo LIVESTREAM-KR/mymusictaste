@@ -4,9 +4,25 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 05:39:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 17:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SOLAR]]></title>
+            <link>https://www.mymusictaste.com/project/524ae22c960311ec836b0a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/524ae22c960311ec836b0a58a9feac02/</guid>
+            <pubDate>Mon, 28 Feb 2022 17:41:26 GMT</pubDate>
+            <content:encoded><![CDATA[1ST MINI ALBUM [容 : FACE]]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/a5eedb54984711eca2040a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ILY:1]]></title>
+            <link>https://www.mymusictaste.com/project/8d8ef976960511ecad000a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/8d8ef976960511ecad000a58a9feac02/</guid>
+            <pubDate>Mon, 28 Feb 2022 17:41:26 GMT</pubDate>
+            <content:encoded><![CDATA[VIDEO CALL EVENT]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/dbed8ad8961411ec908b0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[VERIVERY]]></title>
             <link>https://www.mymusictaste.com/project/039ece9a93a611eca2cd0a58a9feac02/</link>
@@ -30,14 +46,6 @@
             <pubDate>Fri, 18 Feb 2022 17:40:01 GMT</pubDate>
             <content:encoded><![CDATA[2nd Mini Album 'Cherry Wish' GLOBAL VIDEO CALL EVENT]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/4a08095a8fd211ecb8330a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rocket Punch]]></title>
-            <link>https://www.mymusictaste.com/project/efd891a6905a11ecb8ac0a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/efd891a6905a11ecb8ac0a58a9feac02/</guid>
-            <pubDate>Fri, 18 Feb 2022 17:40:01 GMT</pubDate>
-            <content:encoded><![CDATA[4th Mini Album [YELLOW PUNCH] Video Call Event]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/bd53e028905a11ecb9430a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[이달의 소녀 (LOOΠΔ)]]></title>
