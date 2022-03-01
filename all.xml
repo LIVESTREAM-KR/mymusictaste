@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 17:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 05:38:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
         </item>
         <item>
             <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/pick-new-korean-dramas-coming-out-in-march-2022,3752/</link>
+            <guid>https://www.mymusictaste.com/news/pick-new-korean-dramas-coming-out-in-march-2022,3752/</guid>
+            <pubDate>Tue, 01 Mar 2022 05:38:01 GMT</pubDate>
+            <content:encoded><![CDATA[Edited by Hong Hyun Jung Translated by Changhyun Kim Various TV shows are slated to air in March, including tvN’s Kill Heel, which had postponed its premiere to the 9th]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/upcoming-kdramas-March-2022_01-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
             <link>https://www.mymusictaste.com/news/will-nuest-disband-pledis-entertainment-announces-the-expiration-of-nuests-contracts-jr-aron-and-ren-leaves-the-agency,3751/</link>
             <guid>https://www.mymusictaste.com/news/will-nuest-disband-pledis-entertainment-announces-the-expiration-of-nuests-contracts-jr-aron-and-ren-leaves-the-agency,3751/</guid>
             <pubDate>Mon, 28 Feb 2022 17:41:08 GMT</pubDate>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 25 Feb 2022 17:40:10 GMT</pubDate>
             <content:encoded><![CDATA[The Game Caterers 2, led by producer Na Young Seok, is visiting YG Entertainment this time. On the 25th, tvN’s The Game Caterers 2 will have a match with the]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/yg-family-600x400.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/a-business-proposal-ahn-hyo-seop-and-kim-se-jeong-say-they-were-the-perfect-partners,3732/</link>
-            <guid>https://www.mymusictaste.com/news/a-business-proposal-ahn-hyo-seop-and-kim-se-jeong-say-they-were-the-perfect-partners,3732/</guid>
-            <pubDate>Fri, 25 Feb 2022 17:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[Ahn Hyo Seop and Kim Se Jeong are ready to dazzle the viewers with their romance. On the 25th, A Business Proposal held its online press conference, which director Park]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/kuk202202250202-crop-600x400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SOLAR (MyMusicTaste ─ Shop)]]></title>
