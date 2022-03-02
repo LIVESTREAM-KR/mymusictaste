@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 05:38:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 05:40:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
         </item>
         <item>
             <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/ahn-bo-hyun-and-jo-bo-ahs-military-prosecutor-doberman-got-off-to-a-promising-start,3753/</link>
+            <guid>https://www.mymusictaste.com/news/ahn-bo-hyun-and-jo-bo-ahs-military-prosecutor-doberman-got-off-to-a-promising-start,3753/</guid>
+            <pubDate>Wed, 02 Mar 2022 05:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[Ahn Bo Hyun&nbsp;and&nbsp;Jo Bo Ah‘s&nbsp;Military Prosecutor Doberman&nbsp;is on the rise, taking first place in its time slot across all channels. The second episode scored an average nationwide viewership rating of]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/03/doberman.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
             <link>https://www.mymusictaste.com/news/pick-new-korean-dramas-coming-out-in-march-2022,3752/</link>
             <guid>https://www.mymusictaste.com/news/pick-new-korean-dramas-coming-out-in-march-2022,3752/</guid>
             <pubDate>Tue, 01 Mar 2022 05:38:01 GMT</pubDate>
@@ -320,14 +328,6 @@
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/1-3-600x400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/the-game-caterers-2-visits-yg-this-time-watch-members-of-blackpink-winner-ikon-treasure-playing-games-together,3733/</link>
-            <guid>https://www.mymusictaste.com/news/the-game-caterers-2-visits-yg-this-time-watch-members-of-blackpink-winner-ikon-treasure-playing-games-together,3733/</guid>
-            <pubDate>Fri, 25 Feb 2022 17:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[The Game Caterers 2, led by producer Na Young Seok, is visiting YG Entertainment this time. On the 25th, tvN’s The Game Caterers 2 will have a match with the]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/02/yg-family-600x400.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[SOLAR (MyMusicTaste ─ Shop)]]></title>
             <link>https://www.mymusictaste.com/project/524ae22c960311ec836b0a58a9feac02/</link>
             <guid>https://www.mymusictaste.com/project/524ae22c960311ec836b0a58a9feac02/</guid>
@@ -358,14 +358,6 @@
             <pubDate>Tue, 22 Feb 2022 17:40:13 GMT</pubDate>
             <content:encoded><![CDATA[(ASTRO) 2nd Mini Album 'REFUGE' VIDEO CALL EVENT]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/32ad5a6c937811ec90d00a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cherry Bullet (MyMusicTaste ─ Shop)]]></title>
-            <link>https://www.mymusictaste.com/project/6353e9248fb611ec99370a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/6353e9248fb611ec99370a58a9feac02/</guid>
-            <pubDate>Fri, 18 Feb 2022 17:40:01 GMT</pubDate>
-            <content:encoded><![CDATA[2nd Mini Album 'Cherry Wish' GLOBAL VIDEO CALL EVENT]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/4a08095a8fd211ecb8330a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[이달의 소녀 (LOOΠΔ) (MyMusicTaste ─ Shop)]]></title>
