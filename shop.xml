@@ -4,7 +4,7 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 05:38:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 17:38:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Sat, 05 Mar 2022 05:38:27 GMT</pubDate>
             <content:encoded><![CDATA[1ST ALBUM PART 2 Global Video Call Event]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/5504b5d29b8311ecbfed0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[WONHO]]></title>
-            <link>https://www.mymusictaste.com/project/fc30432c9a0511ecb9a20a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/fc30432c9a0511ecb9a20a58a9feac02/</guid>
-            <pubDate>Thu, 03 Mar 2022 05:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[GLOBAL VIDEO CALL EVENT WITH WENEE]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/f6f3ace69a9811ec81530a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[SOLAR]]></title>
