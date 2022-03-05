@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 05:38:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 05:38:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CRAVITY]]></title>
+            <link>https://www.mymusictaste.com/project/793fc13a9ac111ec928b0a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/793fc13a9ac111ec928b0a58a9feac02/</guid>
+            <pubDate>Sat, 05 Mar 2022 05:38:27 GMT</pubDate>
+            <content:encoded><![CDATA[1ST ALBUM PART 2 Global Video Call Event]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/5504b5d29b8311ecbfed0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[WONHO]]></title>
             <link>https://www.mymusictaste.com/project/fc30432c9a0511ecb9a20a58a9feac02/</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 19 Jan 2022 05:38:12 GMT</pubDate>
             <content:encoded><![CDATA[2022 이달의 소녀 CONCERT [LOONAVERSE : FROM]]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/eb894c54728711ec921c0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATEEZ]]></title>
-            <link>https://www.mymusictaste.com/project/3429f19061fe11ec87900a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/3429f19061fe11ec87900a58a9feac02/</guid>
-            <pubDate>Fri, 24 Dec 2021 05:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022 WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] OFFICIAL MD]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/a9a30800621911ecbf260a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
