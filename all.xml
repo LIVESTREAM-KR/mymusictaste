@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 17:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 05:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
         </item>
         <item>
             <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/jujutsu-kaisen-director-park-sung-hoo-shares-what-we-should-expect-from-jujutsu-kaisen-0-the-movie,3822/</link>
+            <guid>https://www.mymusictaste.com/news/jujutsu-kaisen-director-park-sung-hoo-shares-what-we-should-expect-from-jujutsu-kaisen-0-the-movie,3822/</guid>
+            <pubDate>Wed, 09 Mar 2022 05:38:26 GMT</pubDate>
+            <content:encoded><![CDATA[The second movie adaptation of Jujutsu Kaisen, Jujutsu Kaisen 0: The Movie, follows a sorcerer named Yuta Okkotsu who confronts a powerful spell-caster named Suguru Geto who will put everyone]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/03/bodo_still_02-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
             <link>https://www.mymusictaste.com/news/crazy-love-episode-1-what-happened-to-krystal-and-why-does-she-hate-kim-jae-wook-so-much,3821/</link>
             <guid>https://www.mymusictaste.com/news/crazy-love-episode-1-what-happened-to-krystal-and-why-does-she-hate-kim-jae-wook-so-much,3821/</guid>
             <pubDate>Tue, 08 Mar 2022 17:41:06 GMT</pubDate>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 07 Mar 2022 17:41:36 GMT</pubDate>
             <content:encoded><![CDATA[Mnet has released the official posters for the upcoming talent show, Queendom season 2. The teaser poster features&nbsp;Taeyeon and Lee Yong Jin against the backdrop of chess boards and pieces.]]></content:encoded>
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/03/275329681_5702364256445169_6483044035876800197_n-600x400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/juvenile-justice-3-rookie-actors-that-kim-hye-soo-praised,3802/</link>
-            <guid>https://www.mymusictaste.com/news/juvenile-justice-3-rookie-actors-that-kim-hye-soo-praised,3802/</guid>
-            <pubDate>Mon, 07 Mar 2022 17:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[In a video interview with YTN Star, Juvenile Justice star Kim Hye Soo handed out lavish praise for the rookie actors she worked with in the series. Released on February]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/03/Juvenile-Justice-00-600x400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SOLAR (MyMusicTaste ─ Shop)]]></title>
