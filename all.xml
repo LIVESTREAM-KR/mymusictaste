@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 17:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 05:39:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
         </item>
         <item>
             <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
+            <link>https://www.mymusictaste.com/news/weekly-tv-top-10-twenty-five-twenty-one-maintains-the-lead-as-business-proposal-joins-the-race-with-notable-jump-in-viewership-rating,3835/</link>
+            <guid>https://www.mymusictaste.com/news/weekly-tv-top-10-twenty-five-twenty-one-maintains-the-lead-as-business-proposal-joins-the-race-with-notable-jump-in-viewership-rating,3835/</guid>
+            <pubDate>Fri, 11 Mar 2022 05:39:12 GMT</pubDate>
+            <content:encoded><![CDATA[Drama Ranking for the 1st Week of March tvN’s Twenty-Five Twenty-One is maintaining No.1 ratings for four weeks straight. The sweet chemistry between Nam Joo Hyuck and Kim Tae Ri]]></content:encoded>
+            <enclosure url="https://zapzee.net/wp-content/uploads/2022/03/275064692_513197183510089_582079564524509432_n-side-1-600x400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
             <link>https://www.mymusictaste.com/news/jang-ki-yong-says-that-song-hye-kyo-came-over-to-see-him-at-his-army-base,3834/</link>
             <guid>https://www.mymusictaste.com/news/jang-ki-yong-says-that-song-hye-kyo-came-over-to-see-him-at-his-army-base,3834/</guid>
             <pubDate>Thu, 10 Mar 2022 17:40:53 GMT</pubDate>
@@ -320,20 +328,12 @@
             <enclosure url="https://zapzee.net/wp-content/uploads/2022/03/254b4249-0f1f-483b-8686-18c2bd8cd22a-600x400.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (MyMusicTaste ─ News)]]></title>
-            <link>https://www.mymusictaste.com/news/esom-will-not-be-taking-part-in-taxi-driver-season-2-due-to-a-schedule-conflict,3815/</link>
-            <guid>https://www.mymusictaste.com/news/esom-will-not-be-taking-part-in-taxi-driver-season-2-due-to-a-schedule-conflict,3815/</guid>
-            <pubDate>Tue, 08 Mar 2022 17:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[Esom will be unable to participate in the upcoming season of Taxi Driver. On March 8th, Esom’s agency Artist Company announced, “Esom will not be starring in the second season]]></content:encoded>
-            <enclosure url="https://zapzee.net/wp-content/uploads/2022/03/606c0cfea6c8ef60f6f218ea-p-600x400.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SOLAR (MyMusicTaste ─ Shop)]]></title>
-            <link>https://www.mymusictaste.com/project/02565f889ce611ec833f0a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/02565f889ce611ec833f0a58a9feac02/</guid>
-            <pubDate>Mon, 07 Mar 2022 05:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[[容 : FACE] Global Video Call]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/6a387c749ce511ec8acf0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[WEi (MyMusicTaste ─ Shop)]]></title>
+            <link>https://www.mymusictaste.com/project/b030416ea0e911ecb1970a58a9feac02/</link>
+            <guid>https://www.mymusictaste.com/project/b030416ea0e911ecb1970a58a9feac02/</guid>
+            <pubDate>Fri, 11 Mar 2022 05:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[4th Mini Album [Love Pt.1 : First Love] Video Call Fan Sign Event&nbsp;]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/5c9b62c6a0e911ec9c820a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[CRAVITY (MyMusicTaste ─ Shop)]]></title>
