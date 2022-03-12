@@ -4,7 +4,7 @@
         <title>MyMusicTaste ─ Shop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 05:39:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 05:39:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Wed, 09 Feb 2022 05:38:17 GMT</pubDate>
             <content:encoded><![CDATA[1ST PHOTOBOOK ;  ODE TO YOUTH]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/a75acd2e896311ec88890a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[원어스 (ONEUS)]]></title>
-            <link>https://www.mymusictaste.com/project/fe56928c7c5811ecb5430a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/fe56928c7c5811ecb5430a58a9feac02/</guid>
-            <pubDate>Tue, 25 Jan 2022 05:38:24 GMT</pubDate>
-            <content:encoded><![CDATA[BLOOD MOON event]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/e53fe67e7c5811ec8bf00a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[이달의 소녀 (LOOΠΔ)]]></title>
