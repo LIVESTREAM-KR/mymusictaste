@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 05:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 17:40:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,14 +374,6 @@
             <pubDate>Tue, 22 Feb 2022 17:40:13 GMT</pubDate>
             <content:encoded><![CDATA[(ASTRO) 2nd Mini Album 'REFUGE' VIDEO CALL EVENT]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/32ad5a6c937811ec90d00a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[이달의 소녀 (LOOΠΔ) (MyMusicTaste ─ Shop)]]></title>
-            <link>https://www.mymusictaste.com/project/00f51b288fb711ec92ec0a58a9feac02/</link>
-            <guid>https://www.mymusictaste.com/project/00f51b288fb711ec92ec0a58a9feac02/</guid>
-            <pubDate>Mon, 21 Feb 2022 05:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[[LOONAVERSE : FROM] Photobook]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/844457b4907211ecbda00a58a9feac02.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[ATEEZ (MyMusicTaste ─ Shop)]]></title>
